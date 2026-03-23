@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: BigDumbYak-Git/theatre17website
+  name: git-gateway
   branch: main
 
 # Media uploads — stored in the repo under src/assets/uploads
