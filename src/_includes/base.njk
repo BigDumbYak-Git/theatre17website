@@ -6,7 +6,6 @@
   <title>{{ pageTitle if pageTitle else "Theatre 17" }}</title>
   <meta name="description" content="{{ pageDescription if pageDescription else 'Theatre 17 is Dryden\'s community theatre group, bringing live performance to Northwestern Ontario since 1972.' }}">
   <link rel="stylesheet" href="/css/style.css">
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 
@@ -17,16 +16,5 @@
   {% include "footer.njk" %}
 
   <script src="/js/main.js"></script>
-  <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", function(user) {
-        if (!user) {
-          window.netlifyIdentity.on("login", function() {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
 </body>
 </html>

@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: BigDumbYak-Git/theatre17website
   branch: main
+  base_url: theatre17-cms-auth.bigdumbyak.workers.dev
 
 # Media uploads — stored in the repo under src/assets/uploads
 media_folder: "src/assets/uploads"
