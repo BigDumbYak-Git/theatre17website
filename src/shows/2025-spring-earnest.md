@@ -8,7 +8,7 @@ current_show: false
 dates: April 25 – May 4, 2025
 show_times: Fridays & Saturdays 7:30 PM · Sunday 2:00 PM
 venue: Dryden Performing Arts Centre
-poster: ""
+poster: /assets/uploads/poster_earnest.webp
 description: >
   Two young gentlemen of leisure — Jack Worthing and Algernon Moncrieff — have
   both invented fictitious alter egos named "Ernest" to escape their social
