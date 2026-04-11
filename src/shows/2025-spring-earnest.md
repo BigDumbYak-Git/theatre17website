@@ -39,13 +39,13 @@ crew:
   - name: Judith Hamilton
     role: Director
   - name: Derek Schroeder
-    role: Technical
+    role: Technical Direction
   - name: Gail Arnold
     role: Stage Manager
   - name: Trevor Gauthier
     role: Audio Engineer
   - name: Marcel Penner
-    role: Lighting
+    role: Lighting Direction
   - name: Jeff Cook
     role: Set Engineer / Construction
   - name: Tiia Johnson
