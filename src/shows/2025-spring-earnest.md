@@ -36,14 +36,16 @@ cast:
   - name: Kate Cooke
     role: Miss Prism
 crew:
+  - name: Judith Hamilton
+    role: Director
   - name: Derek Schroeder
-    role: Technical Director
+    role: Technical
   - name: Gail Arnold
     role: Stage Manager
   - name: Trevor Gauthier
     role: Audio Engineer
   - name: Marcel Penner
-    role: Lighting Director
+    role: Lighting
   - name: Jeff Cook
     role: Set Engineer / Construction
   - name: Tiia Johnson
