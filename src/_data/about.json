@@ -1,8 +1,8 @@
 {
   "page_header": {
     "kicker": "About Us",
-    "heading": "Who We Are",
-    "subheading": "Mission & Vision"
+    "heading": "What is Theatre 17?",
+    "subheading": "A brief history"
   },
   "content_sections": [
     {
@@ -22,12 +22,47 @@
     {
       "card_type": "list",
       "highlighted": false,
+      "heading": "By the Numbers",
+      "items": [
+        {
+          "label": "Founded",
+          "value": "1980's"
+        },
+        {
+          "label": "Re-formed",
+          "value": "2005"
+        },
+        {
+          "label": "Active Members",
+          "value": "~20"
+        },
+        {
+          "label": "Annual Audience",
+          "value": "~600"
+        }
+      ]
+    },
+    {
+      "card_type": "list",
+      "highlighted": false,
       "heading": "Current Executive Members",
       "items": [
-        { "label": "Chair", "value": "Amy Maua" },
-        { "label": "Vice-Chair", "value": "Ted Mitchell" },
-        { "label": "Secretary", "value": "Emm Leigh Fex" },
-        { "label": "Treasurer", "value": "Angie Barton" }
+        {
+          "label": "Chair",
+          "value": "Amy Maua"
+        },
+        {
+          "label": "Vice-Chair",
+          "value": "Ted Mitchell"
+        },
+        {
+          "label": "Secretary",
+          "value": "Emma Leigh Fex"
+        },
+        {
+          "label": "Treasurer",
+          "value": "Angie Barton"
+        }
       ]
     },
     {
