@@ -10,7 +10,7 @@ opening_date: 2024-11-21
 closing_date: 2024-11-23
 show_times: 7:00PM
 venue: The Centre
-poster: /assets/uploads/poster_blithespirit.png
+poster: /assets/uploads/poster_blithespirit.webp
 description: Blithe Spirit is a comedic play by Noël Coward that revolves around
   Charles Condomine, a novelist who invites a medium, Madame Arcati, to his home
   to conduct a séance for research on the occult. However, the evening takes an
