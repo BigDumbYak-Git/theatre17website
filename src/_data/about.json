@@ -24,22 +24,10 @@
       "highlighted": false,
       "heading": "Current Executive Members",
       "items": [
-        {
-          "label": "Chair",
-          "value": "Amy Maua"
-        },
-        {
-          "label": "Vice-Chair",
-          "value": "Ted Mitchell"
-        },
-        {
-          "label": "Secretary",
-          "value": "Emm Leigh Fex"
-        },
-        {
-          "label": "Treasurer",
-          "value": "Angie Barton"
-        }
+        { "label": "Chair", "value": "Amy Maua" },
+        { "label": "Vice-Chair", "value": "Ted Mitchell" },
+        { "label": "Secretary", "value": "Emm Leigh Fex" },
+        { "label": "Treasurer", "value": "Angie Barton" }
       ]
     },
     {
@@ -49,79 +37,6 @@
       "body": "Performers, crew, and supporters all welcome. Reach out to learn more.",
       "button_label": "GET INVOLVED",
       "button_url": "https://theatre17website.bigdumbyak.workers.dev/contact"
-    }
-  ]
-}
-
-{
-  "page_header": {
-    "kicker": "Who We Are",
-    "heading": "About Theatre 17",
-    "subheading": "Fifty years of live theatre in the heart of Northwestern Ontario."
-  },
-  "content_sections": [
-    {
-      "heading": "Our Story",
-      "body": "Theatre 17 was founded in 1972 by a small group of Dryden residents who believed their community deserved live professional-quality theatre — not just as an occasional import, but as a permanent and vital part of local life. Naming themselves after the 17th District of Northwestern Ontario, they put on their first production in a converted church hall with borrowed costumes and hand-painted sets.\n\nOver fifty years later, Theatre 17 has produced more than 140 shows, launched countless careers, and become one of the defining cultural institutions of Dryden. We perform at the Dryden Performing Arts Centre and reach an annual audience in the thousands."
-    },
-    {
-      "heading": "What We Believe",
-      "body": "Theatre 17 is a volunteer community theatre. Every person on stage, behind the curtain, and behind the scenes gives their time freely because they love what live performance does for people — as participants and as audience.\n\nWe believe theatre belongs to everyone. We welcome new members at any experience level, and we are committed to producing shows that reflect the breadth of our community — comedies, dramas, musicals, Shakespeare, and original work."
-    },
-    {
-      "heading": "Youth Theatre Program",
-      "body": "In 2003, Theatre 17 established its Youth Theatre Program, offering workshops and performance opportunities to young people aged 10–17 throughout the school year. The program has introduced over 400 young people to the performing arts and produced an annual youth show every spring since 2004.\n\nYouth Theatre registrations and information are available through the [Contact](/contact.html) page."
-    },
-    {
-      "heading": "How to Get Involved",
-      "body": "There are many ways to be part of Theatre 17, and you don't need to want to act. We are always looking for people to help with set construction, costumes, props, lighting, sound, front-of-house, and administration. Auditions are held twice yearly for our spring and fall productions.\n\nVisit the [Auditions & Contact](/contact.html) page to register for upcoming auditions or to introduce yourself to our membership coordinator."
-    },
-    {
-      "heading": "Community Partners",
-      "body": "Theatre 17 is grateful for the ongoing support of the Town of Dryden, the Dryden District Community Foundation, the Ontario Arts Council, and our many local business sponsors whose generosity keeps ticket prices accessible to all."
-    }
-  ],
-  "sidebar_cards": [
-    {
-      "card_type": "list",
-      "heading": "By the Numbers",
-      "items": [
-        { "label": "Founded", "value": "1972" },
-        { "label": "Productions", "value": "140+" },
-        { "label": "Active Members", "value": "~45" },
-        { "label": "Youth Alumni", "value": "400+" },
-        { "label": "Annual Audience", "value": "~2,500" }
-      ],
-      "footnote": "",
-      "body": "",
-      "button_label": "",
-      "button_url": "",
-      "highlighted": false
-    },
-    {
-      "card_type": "list",
-      "heading": "Executive Board",
-      "items": [
-        { "label": "President", "value": "Update in CMS" },
-        { "label": "Vice-President", "value": "Update in CMS" },
-        { "label": "Treasurer", "value": "Update in CMS" },
-        { "label": "Secretary", "value": "Update in CMS" }
-      ],
-      "footnote": "Edit this card in the CMS to update board members.",
-      "body": "",
-      "button_label": "",
-      "button_url": "",
-      "highlighted": false
-    },
-    {
-      "card_type": "cta",
-      "heading": "Join Theatre 17",
-      "items": [],
-      "footnote": "",
-      "body": "Performers, crew, and supporters all welcome. Reach out to learn more.",
-      "button_label": "Get Involved",
-      "button_url": "/contact.html",
-      "highlighted": true
     }
   ]
 }
