@@ -16,6 +16,10 @@
     {
       "heading": "History",
       "body": "The original Theatre 17 was formed in the 1980s by a group of like-minded arts enthusiasts. It ran successfully for several years before disbanding.\n\nIn 2005, Judith Hamilton, Susan Andrusco, and Derrick Hiscox came together to resurrect community theatre in Dryden. At their first meeting, the group voted to adopt the name Theatre 17 as a nod to the original group.\n\nTheir first production, \"Quilters\", was presented in February 2006. It was directed by Judith Hamilton and Susan Andrusco, and featured a cast of nine women and two men, telling the story of pioneer hardships through quilt blocks.\n\nOn the name \"Theatre 17\": There is speculation — it may reflect the number of founding members of the original group, or it may be a reference to Highway 17, the road that connects Dryden to the rest of the country."
+    },
+    {
+      "heading": "How to Get Involved",
+      "body": "There are many ways to be part of Theatre 17, and you don't need to want to act. We are always looking for people to help with set construction, costumes, props, lighting, sound, front-of-house, and administration. Auditions for productions are announced here in our News section and on our [Facebook](https://www.facebook.com/Theatre17) page.\n\nVisit the [Auditions & Contact](/contact) page to register for upcoming auditions or to introduce yourself to our membership coordinator."
     }
   ],
   "sidebar_cards": [
@@ -71,7 +75,7 @@
       "heading": "Join Theatre 17",
       "body": "Performers, crew, and supporters all welcome. Reach out to learn more.",
       "button_label": "GET INVOLVED",
-      "button_url": "https://theatre17website.bigdumbyak.workers.dev/contact"
+      "button_url": "/contact"
     }
   ]
 }
