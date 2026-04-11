@@ -1,53 +1,56 @@
 ---
 title: The Importance of Being Earnest
 playwright: Oscar Wilde
-year: 2025
+year: 2016
 season: Spring
 status: closed
 current_show: false
-dates: April 25 – May 4, 2025
-show_times: Fridays & Saturdays 7:30 PM · Sunday 2:00 PM
-venue: Dryden Performing Arts Centre
+dates: April 14, 15, 16
+opening_date: 2016-04-14
+closing_date: 2016-04-16
+show_times: 7:00 PM
+venue: The Centre
 poster: /assets/uploads/poster_earnest.webp
-description: >
-  Two young gentlemen of leisure — Jack Worthing and Algernon Moncrieff — have
-  both invented fictitious alter egos named "Ernest" to escape their social
-  obligations. When they both fall for women who insist on marrying a man named
-  Ernest, their elaborate deceptions begin to unravel with increasingly
-  hilarious results.
-
-
-  Oscar Wilde's masterpiece of wit and wordplay is perhaps the funniest play in the English language. This production features a full period Victorian setting with costumes and design by Theatre 17's award-winning creative team.
+description: Oscar Wilde's most popular play — a farcical romp in which Algernon
+  Moncrieff and Jack/Ernest Worthing lead double lives to escape social
+  obligations. First performed in London in 1895 for 86 performances. Pokes fun
+  at the social order of Victorian England with Wilde's famous witty epigrams.
 ticket_url: ""
 cast:
-  - name: Daniel Forsythe
+  - name: Tyler Johnson
     role: Jack Worthing
-  - name: Ryan Kowalczyk
+  - name: Steven Pritchard
     role: Algernon Moncrieff
-  - name: Claire Ashworth
-    role: Gwendolen Fairfax
-  - name: Megan Dubois
-    role: Cecily Cardew
-  - name: Patricia St. Laurent
+  - name: Rob Rodgers
+    role: Rev. Canon Chasuble
+  - role: Merriman
+    name: Jason Roussin
+  - name: Peter Marshall
+    role: Lane
+  - name: Ellen Bloomfield
     role: Lady Bracknell
-  - name: Thomas Birch
-    role: Reverend Chasuble
-  - name: Joanne Pelletier
+  - name: Laura-Lee Pernsky
+    role: Gwendolen Fairfax
+  - name: Brittany Cooke
+    role: Cecily Cardew
+  - name: Kate Cooke
     role: Miss Prism
-  - name: Kevin Arnott
-    role: Lane / Merriman
 crew:
-  - name: Margaret Holloway
-    role: Director
-  - name: Brian Tachuk
-    role: Set Design
-  - name: Lena Morrison
-    role: Costume Design
-  - name: Frank Delacroix
-    role: Lighting Design
-  - name: Andrea Tsai
+  - name: Derek Schroeder
+    role: Technical Director
+  - name: Gail Arnold
     role: Stage Manager
-  - name: Paul & Ruth Kowalczyk
-    role: Set Construction
+  - name: Trevor Gauthier
+    role: Audio Engineer
+  - name: Marcel Penner
+    role: Lighting Director
+  - name: Jeff Cook
+    role: Set Engineer / Construction
+  - name: Tiia Johnson
+    role: Costume Design
+  - name: Kirk Gauthier
+    role: Stage Hand
+  - name: Sean Turpin
+    role: Stage Hand
 gallery: []
 ---
