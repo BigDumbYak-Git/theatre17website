@@ -106,7 +106,7 @@ collections:
       - label: "Venue"
         name: "venue"
         widget: "string"
-        default: "Dryden Performing Arts Centre"
+        default: "The Centre"
         required: false
 
       - label: "Show Poster"
