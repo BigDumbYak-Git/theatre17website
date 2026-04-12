@@ -29,7 +29,7 @@ cast:
     role: Dr. Bradman
   - name: Karen McDonald
     role: Mrs. Bradman
-  - name: Emma Leigh Fex
+  - name: Emma-Leigh Fex
     role: Edith
   - name: Renee Fediuk
     role: Ruth Condomine
