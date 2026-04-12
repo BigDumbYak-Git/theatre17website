@@ -1,5 +1,6 @@
 ---
 name: Marj Salavich
+photo: /assets/uploads/headshot_marjsalavich.jpg
 primary_role: Director
 member_type: alumni
 performer_or_crew: crew
