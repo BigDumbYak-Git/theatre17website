@@ -11,15 +11,15 @@ closing_date: 2024-11-23
 show_times: 7:00PM
 venue: The Centre
 poster: /assets/uploads/poster_blithespiritm.png
-description: Blithe Spirit is a comedic play by Noël Coward that revolves around
-  Charles Condomine, a novelist who invites a medium, Madame Arcati, to his home
-  to conduct a séance for research on the occult. However, the evening takes an
+description: >-
+  Blithe Spirit is a comedic play by Noël Coward that revolves around Charles
+  Condomine, a novelist who invites a medium, Madame Arcati, to his home to
+  conduct a séance for research on the occult. However, the evening takes an
   unexpected turn when Arcati accidentally summons the ghost of Charles's first
-  wife, Elvira, who is both charming and mischievous. As Elvira begins to
-  interfere with Charles's current marriage, chaos ensues, leading to a humorous
-  exploration of love, jealousy, and the afterlife. The play deftly balances wit
-  and whimsy, highlighting the complexities of relationships even beyond the
-  grave.
+  wife, Elvira, who is both charming and mischievous. 
+
+
+  As Elvira begins to interfere with Charles's current marriage, chaos ensues, leading to a humorous exploration of love, jealousy, and the afterlife. The play deftly balances wit and whimsy, highlighting the complexities of relationships even beyond the grave.
 cast:
   - name: Tim McKillop
     role: Charles Condomine
