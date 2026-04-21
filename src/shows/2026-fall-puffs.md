@@ -10,9 +10,11 @@ venue: The Centre
 poster: /assets/uploads/poster_puffstempm.jpg
 description: >-
   For seven years a certain boy wizard went to a certain Wizard School and
-  conquered evil. \
+  conquered evil. 
 
-  This, however, is not his story. This is the story of the Puffs... who just happened to be there too. \
+
+  This, however, is not his story. This is the story of the Puffs... who just happened to be there too. 
+
 
   A tale for anyone who has never been destined to save the world.
 cast: []
