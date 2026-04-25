@@ -43,5 +43,24 @@ crew:
     role: Lighting Direction
   - name: Julija Graham
     role: Prompter
-gallery: []
+gallery:
+  - image: /assets/uploads/show_officehours_048.jpg
+  - image: /assets/uploads/show_officehours_043.jpg
+  - image: /assets/uploads/show_officehours_040.jpg
+  - image: /assets/uploads/show_officehours_038.jpg
+  - image: /assets/uploads/show_officehours_035.jpg
+  - image: /assets/uploads/show_officehours_034.jpg
+  - image: /assets/uploads/show_officehours_029.jpg
+  - image: /assets/uploads/show_officehours_023.jpg
+  - image: /assets/uploads/show_officehours_022.jpg
+  - image: /assets/uploads/show_officehours_018.jpg
+  - image: /assets/uploads/show_officehours_017.jpg
+  - image: /assets/uploads/show_officehours_015.jpg
+  - image: /assets/uploads/show_officehours_013.jpg
+  - image: /assets/uploads/show_officehours_012.jpg
+  - image: /assets/uploads/show_officehours_008.jpg
+  - image: /assets/uploads/show_officehours_010.jpg
+  - image: /assets/uploads/show_officehours_009.jpg
+  - image: /assets/uploads/show_officehours_006.jpg
+  - image: /assets/uploads/show_officehours_005.jpg
 ---
