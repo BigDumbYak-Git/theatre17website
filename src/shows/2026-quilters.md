@@ -10,6 +10,7 @@ opening_date: 2006-02-16
 closing_date: 2006-02-17
 show_times: 7:30 PM
 venue: The Centre
+poster: /assets/uploads/poster_quilters.jpg
 description: >-
   
   This joyous and moving celebration of American womanhood combines music, dance, movement and scenes of vivid dramatic intensity as it pays eloquent tribute to the courage and spirit of our nation’s pioneering women.
