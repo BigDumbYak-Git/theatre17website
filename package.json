@@ -4,10 +4,15 @@
   "description": "Theatre 17 community theatre website",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "deploy": "npm run build && wrangler deploy",
+    "preview": "npm run build && wrangler dev"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "markdown-it": "^14.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.85.0"
   }
 }
