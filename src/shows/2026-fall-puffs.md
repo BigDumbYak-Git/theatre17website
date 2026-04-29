@@ -33,5 +33,7 @@ crew:
     role: Property Master
   - name: Open Position, contact if interested
     role: Set Design / Build
+  - name: Open Position, contact if interested
+    role: Technical Direction
 gallery: []
 ---
