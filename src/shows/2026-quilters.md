@@ -19,7 +19,7 @@ cast:
     role: Pioneer
   - name: Warner Bloomfield
     role: Pinoeer
-  - name: Shannon Elliot
+  - name: Shannon Elliott
     role: Pioneer
   - name: Christie Jaggi
     role: Pioneer
