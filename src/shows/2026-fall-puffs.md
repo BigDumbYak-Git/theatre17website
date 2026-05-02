@@ -3,8 +3,9 @@ title: Puffs
 playwright: Matt Cox
 year: 2026
 season: Fall
-status: planning
+status: rehearsal
 current_show: true
+audition_link: https://forms.gle/C4oKDKffiJVs4zAPA
 dates: October 22 – 24, 2026
 opening_date: 2026-10-22
 closing_date: 2026-10-24
@@ -19,7 +20,6 @@ description: >-
 
 
   A tale for anyone who has never been destined to save the world.
-audition_link: https://forms.gle/C4oKDKffiJVs4zAPA
 cast: []
 crew:
   - name: Angie Barton
