@@ -3,7 +3,7 @@ title: Puffs
 playwright: Matt Cox
 year: 2026
 season: Fall
-status: rehearsal
+status: planning
 current_show: true
 audition_link: https://forms.gle/C4oKDKffiJVs4zAPA
 dates: October 22 – 24, 2026
