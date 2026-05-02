@@ -94,7 +94,7 @@ crew:
     role: Wedding Photography
   - name: Bruce Montague
     role: Lighting & Set Design
-  - name: Eik Maua
+  - name: Erik Maua
     role: Sound
   - name: Humberto Pacheco
     role: Sound
