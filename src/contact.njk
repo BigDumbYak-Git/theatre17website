@@ -62,19 +62,17 @@ pageDescription: "Sign up for auditions or get in touch with Theatre 17 in Dryde
 
       <!-- Audition Form / CTA -->
       <div class="form-block">
-        {% if show and show.data.audition_link %}
+        {% if show and show.data.status in ["planning", "auditions"] %}
 
-          <h2>Sign Up For Auditions</h2>
-          {% if show.data.status in ["planning", "auditions"] %}
+          {% if show.data.audition_link %}
+
+            <h2>Sign Up For Auditions</h2>
             <p>Ready to be part of <em>{{ show.data.title }}</em>? Sign up using the link below and we'll be in touch with details.</p>
-          {% else %}
-            <p>Use the link below to sign up for auditions.</p>
-          {% endif %}
-          <a href="{{ show.data.audition_link }}" class="btn btn-primary"
-             style="width:100%;justify-content:center;margin-top:1rem;"
-             target="_blank" rel="noopener">Sign Up For Auditions</a>
+            <a href="{{ show.data.audition_link }}" class="btn btn-primary"
+               style="width:100%;justify-content:center;margin-top:1rem;"
+               target="_blank" rel="noopener">Sign Up For Auditions</a>
 
-        {% elif show and show.data.status in ["planning", "auditions"] %}
+          {% else %}
 
           <h2>Audition Registration</h2>
           <p>Fill out this form and we'll be in touch to confirm your time slot.</p>
@@ -117,10 +115,12 @@ pageDescription: "Sign up for auditions or get in touch with Theatre 17 in Dryde
             <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;margin-top:0.5rem;">Submit Registration</button>
           </form>
 
+          {% endif %}
+
         {% else %}
 
-          <h2>Interested in Getting Involved?</h2>
-          <p>We're not currently casting, but we'd love to hear from you. Use the general contact form below or send us an email — we'll be in touch when the next casting call opens.</p>
+          <h2>Check Back Soon</h2>
+          <p>Check back for information on the next production. We announce auditions here and on our social media pages when casting opens.</p>
 
         {% endif %}
       </div>
