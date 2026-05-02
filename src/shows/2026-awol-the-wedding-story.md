@@ -16,7 +16,7 @@ description: Cyril doesn't like old people — which is a shame because he is on
   thrash metal band Abscess, he and his friend Neville are determined to show up
   and support her. Neither of them will ever be the same again.
 cast:
-  - name: Audrey Noseworthy
+  - name: Audrey Nosworthy
     role: "AWOL: Cyril"
   - name: Mike Patey
     role: "AWOL: Neville"
