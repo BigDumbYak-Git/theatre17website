@@ -34,7 +34,7 @@ cast:
   - name: Gordon Franklin
     role: Selsdon Mawbray
 crew:
-  - name: Amu Maua
+  - name: Amy Maua
     role: Director
   - name: Ken Saville
     role: Sets
