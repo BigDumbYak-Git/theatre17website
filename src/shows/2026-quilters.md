@@ -21,7 +21,7 @@ cast:
     role: Pinoeer
   - name: Shannon Elliot
     role: Pioneer
-  - name: Christine Jaggi
+  - name: Christie Jaggi
     role: Pioneer
   - name: Katey Montague
     role: Pioneer
