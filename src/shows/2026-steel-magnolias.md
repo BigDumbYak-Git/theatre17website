@@ -54,7 +54,7 @@ crew:
     role: Sound
   - name: Irene Skene
     role: Poster Design & Set Decoration
-  - name: Linda Cunninghame
+  - name: Linda Cunningham
     role: Set Construction / Set Up
   - name: Shawn Bob Hamilton
     role: Set Construction / Set Up
