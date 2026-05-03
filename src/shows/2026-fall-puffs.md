@@ -4,7 +4,7 @@ playwright: Matt Cox
 year: 2026
 season: Fall
 status: planning
-current_show: true
+current_show: false
 audition_link: https://forms.gle/C4oKDKffiJVs4zAPA
 dates: October 22 – 24, 2026
 opening_date: 2026-10-22
