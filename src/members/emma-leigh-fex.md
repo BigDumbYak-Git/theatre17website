@@ -1,5 +1,5 @@
 ---
-name: Emma-Leigh FEx
+name: Emma-Leigh Fex
 photo: /assets/uploads/headshot_emmaleighfex.JPG
 primary_role: Actor
 member_type: current
