@@ -10,7 +10,7 @@ opening_date: 2016-04-14
 closing_date: 2016-04-16
 show_times: 7:00 PM
 venue: The Centre
-poster: /assets/uploads/poster_earnest.webp
+poster: /assets/uploads/poster_theimportanceofbeingearnest.jpg
 description: Oscar Wilde's most popular play — a farcical romp in which Algernon
   Moncrieff and Jack/Ernest Worthing lead double lives to escape social
   obligations. First performed in London in 1895 for 86 performances. Pokes fun
@@ -107,5 +107,12 @@ crew:
     role: Publicity
   - name: Marjorie Salavich
     role: Programs
-gallery: []
+gallery:
+  - image: /assets/uploads/program_theimportanceofbeingearnest.jpg
+    caption: Program cover
+  - image: /assets/uploads/article_theimportanceofbeingearnest3.jpg
+    caption: Britanny Cook (Cecily) and Steven Pritchard (Algernon) as an infatuated
+      young couple
+  - image: /assets/uploads/article_theimportanceofbeingearnest.jpg
+  - image: /assets/uploads/article_theimportanceofbeingearnest2.jpg
 ---
