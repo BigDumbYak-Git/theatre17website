@@ -67,24 +67,26 @@ crew:
     role: "Stage Manager, Set Decor & Props, "
   - name: Trevor Gauthier
     role: Audio Engineer
+  - name: Rick Smith
+    role: Lighting
   - name: Marcel Penner
     role: Lighting
   - name: Jeff Cook
     role: Set Design & Construction
-  - name: Tiia Johnson
-    role: Costume Design & Production, Costume Changes, Set Decor & Props,
-  - name: Kirk Gauthier
-    role: Stage Hand
   - name: Sean Turpin
     role: "Stage Hand, Set Design & Construction, "
+  - name: Kirk Gauthier
+    role: Stage Hand
+  - name: Andrew Misner
+    role: Stage Hand
   - name: Sam Johnson
     role: Set Design & Construction
   - name: Darlene Fuerst
     role: Set Design & Construction
   - name: Kate Cook
     role: Set Design & Construction
-  - name: Rick Smith
-    role: Lighting
+  - name: Tiia Johnson
+    role: Costume Design & Production, Costume Changes, Set Decor & Props,
   - name: Kathy Braun
     role: Prompter
   - name: Courtney McArthur
