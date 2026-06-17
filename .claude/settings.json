@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx @11ty/eleventy)"
+      "Bash(npx @11ty/eleventy)",
+      "PowerShell(& \"c:\\\\theatre17website\\\\create_members.ps1\")",
+      "PowerShell(\\(Get-ChildItem \"c:\\\\theatre17website\\\\src\\\\members\\\\\"\\).Count)",
+      "PowerShell(Remove-Item \"c:\\\\theatre17website\\\\create_members.ps1\" -Confirm:$false)"
     ]
   }
 }

@@ -1,0 +1,8 @@
+---
+name: Heather Bedard
+primary_role: Actor
+member_type: alumni
+performer_or_crew: performer
+bio: Bio for Heather
+shows_display: "Actor: Quilters (Singer)"
+---
