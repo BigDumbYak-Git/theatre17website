@@ -10,7 +10,7 @@ dates: October 22 – 24, 2026
 opening_date: 2026-10-22
 closing_date: 2026-10-24
 venue: The Centre
-poster: /assets/uploads/poster_puffstempm.jpg
+poster: /assets/uploads/poster_puffs.webp
 description: >-
   For seven years a certain boy wizard went to a certain Wizard School and
   conquered evil. 
