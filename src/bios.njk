@@ -28,7 +28,7 @@ pageDescription: "Meet the current and alumni members of Theatre 17, Dryden's co
     {% if allMembers.length %}
 
     <!-- Filter Bar -->
-    <div class="filter-bar">
+    <div>
       <button class="bio-filter-btn filter-btn active" data-filter="all">All Members</button>
       <button class="bio-filter-btn filter-btn" data-filter="current">Current</button>
       <button class="bio-filter-btn filter-btn" data-filter="alumni">Alumni</button>
@@ -36,10 +36,20 @@ pageDescription: "Meet the current and alumni members of Theatre 17, Dryden's co
       <button class="bio-filter-btn filter-btn" data-filter="crew">Crew &amp; Creative</button>
     </div>
 
+    <!-- Alpha Filter Bar -->
+    <div class="filter-bar filter-bar-alpha">
+      <button class="alpha-filter-btn filter-btn active" data-alpha="all">All</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="a-e">A–E</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="f-j">F–J</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="k-o">K–O</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="p-t">P–T</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="u-z">U–Z</button>
+    </div>
+
     <!-- Bios Grid -->
     <div class="bios-grid">
       {% for member in allMembers %}
-      <div class="bio-card" data-tags="{{ member | memberTags }}">
+      <div class="bio-card" data-tags="{{ member | memberTags }}" data-alpha="{{ member.data.name | alphaGroup }}">
         <div class="bio-avatar">
           {% if member.data.photo %}
             <img src="{{ member.data.photo }}" alt="{{ member.data.name }}">

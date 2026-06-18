@@ -107,6 +107,16 @@ module.exports = function(eleventyConfig) {
     return tags.join(" ");
   });
 
+  // Alpha group for alphabetical filter buttons (keyed on first letter of name)
+  eleventyConfig.addFilter("alphaGroup", function(name) {
+    const first = (name || "").trim().charAt(0).toUpperCase();
+    if (first <= "E") return "a-e";
+    if (first <= "J") return "f-j";
+    if (first <= "O") return "k-o";
+    if (first <= "T") return "p-t";
+    return "u-z";
+  });
+
   // Initials from a full name (for avatar placeholder)
   eleventyConfig.addFilter("initials", function(name) {
     if (!name) return "?";

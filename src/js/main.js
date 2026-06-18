@@ -38,23 +38,40 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // ---- Bio filter ----
+  // ---- Bio filter (type + alpha, combined AND logic) ----
   const bioFilterBtns = document.querySelectorAll('.bio-filter-btn');
+  const alphaFilterBtns = document.querySelectorAll('.alpha-filter-btn');
   const bioCards = document.querySelectorAll('.bio-card');
-  if (bioFilterBtns.length && bioCards.length) {
+
+  if (bioCards.length) {
+    let activeType = 'all';
+    let activeAlpha = 'all';
+
+    function applyBioFilters() {
+      bioCards.forEach(card => {
+        const tags = card.dataset.tags || '';
+        const alpha = card.dataset.alpha || '';
+        const typeMatch = activeType === 'all' || tags.includes(activeType);
+        const alphaMatch = activeAlpha === 'all' || alpha === activeAlpha;
+        card.style.display = typeMatch && alphaMatch ? '' : 'none';
+      });
+    }
+
     bioFilterBtns.forEach(btn => {
       btn.addEventListener('click', () => {
         bioFilterBtns.forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        const filter = btn.dataset.filter;
-        bioCards.forEach(card => {
-          const tags = card.dataset.tags || '';
-          if (filter === 'all' || tags.includes(filter)) {
-            card.style.display = '';
-          } else {
-            card.style.display = 'none';
-          }
-        });
+        activeType = btn.dataset.filter;
+        applyBioFilters();
+      });
+    });
+
+    alphaFilterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        alphaFilterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeAlpha = btn.dataset.alpha;
+        applyBioFilters();
       });
     });
   }
