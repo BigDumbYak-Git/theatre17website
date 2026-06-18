@@ -71,12 +71,12 @@ pageDescription: "Theatre 17 is Dryden's community theatre group, bringing live 
           </div>
           <div class="hero-actions">
             {% if currentShow.data.ticket_url %}
-              <a href="{{ currentShow.data.ticket_url }}" class="btn btn-primary" target="_blank" rel="noopener">Get Tickets</a>
+              <a href="{{ currentShow.data.ticket_url }}" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Get Tickets</a>
             {% endif %}
             {% if currentShow.data.status in ["planning", "auditions"] %}
               <a href="{{ currentShow.data.audition_link if currentShow.data.audition_link else '/contact.html' }}"
                  class="btn btn-gold"
-                 {% if currentShow.data.audition_link %}target="_blank" rel="noopener"{% endif %}>
+                 {% if currentShow.data.audition_link %}target="_blank" rel="noopener noreferrer"{% endif %}>
                 Sign Up For Crew/Auditions
               </a>
             {% endif %}

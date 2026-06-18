@@ -29,21 +29,21 @@ pageDescription: "Meet the current and alumni members of Theatre 17, Dryden's co
 
     <!-- Filter Bar -->
     <div>
-      <button class="bio-filter-btn filter-btn active" data-filter="all">All Members</button>
-      <button class="bio-filter-btn filter-btn" data-filter="current">Current</button>
-      <button class="bio-filter-btn filter-btn" data-filter="alumni">Alumni</button>
-      <button class="bio-filter-btn filter-btn" data-filter="cast">Performers</button>
-      <button class="bio-filter-btn filter-btn" data-filter="crew">Crew &amp; Creative</button>
+      <button class="bio-filter-btn filter-btn active" data-filter="all" aria-pressed="true">All Members</button>
+      <button class="bio-filter-btn filter-btn" data-filter="current" aria-pressed="false">Current</button>
+      <button class="bio-filter-btn filter-btn" data-filter="alumni" aria-pressed="false">Alumni</button>
+      <button class="bio-filter-btn filter-btn" data-filter="cast" aria-pressed="false">Performers</button>
+      <button class="bio-filter-btn filter-btn" data-filter="crew" aria-pressed="false">Crew &amp; Creative</button>
     </div>
 
     <!-- Alpha Filter Bar -->
     <div class="filter-bar filter-bar-alpha">
-      <button class="alpha-filter-btn filter-btn active" data-alpha="all">All</button>
-      <button class="alpha-filter-btn filter-btn" data-alpha="a-e">A–E</button>
-      <button class="alpha-filter-btn filter-btn" data-alpha="f-j">F–J</button>
-      <button class="alpha-filter-btn filter-btn" data-alpha="k-o">K–O</button>
-      <button class="alpha-filter-btn filter-btn" data-alpha="p-t">P–T</button>
-      <button class="alpha-filter-btn filter-btn" data-alpha="u-z">U–Z</button>
+      <button class="alpha-filter-btn filter-btn active" data-alpha="all" aria-pressed="true">All</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="a-e" aria-pressed="false">A–E</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="f-j" aria-pressed="false">F–J</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="k-o" aria-pressed="false">K–O</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="p-t" aria-pressed="false">P–T</button>
+      <button class="alpha-filter-btn filter-btn" data-alpha="u-z" aria-pressed="false">U–Z</button>
     </div>
 
     <!-- Bios Grid -->
@@ -52,7 +52,7 @@ pageDescription: "Meet the current and alumni members of Theatre 17, Dryden's co
       <div class="bio-card" data-tags="{{ member | memberTags }}" data-alpha="{{ member.data.name | alphaGroup }}">
         <div class="bio-avatar">
           {% if member.data.photo %}
-            <img src="{{ member.data.photo }}" alt="{{ member.data.name }}">
+            <img src="{{ member.data.photo }}" alt="{{ member.data.name }}" loading="lazy">
           {% else %}
             <div class="bio-avatar-placeholder">{{ member.data.name | initials }}</div>
           {% endif %}
@@ -75,7 +75,7 @@ pageDescription: "Meet the current and alumni members of Theatre 17, Dryden's co
 
         {% if member.data.external_url %}
           <div style="margin-top:0.75rem;">
-            <a href="{{ member.data.external_url }}" target="_blank" rel="noopener" style="font-size:0.78rem;color:var(--burgundy);">Website &rarr;</a>
+            <a href="{{ member.data.external_url }}" target="_blank" rel="noopener noreferrer" style="font-size:0.78rem;color:var(--burgundy);">Website &rarr;</a>
           </div>
         {% endif %}
       </div>

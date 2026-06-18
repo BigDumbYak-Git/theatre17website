@@ -43,7 +43,7 @@ pageDescription: "Browse Theatre 17's history of productions."
       <a href="{{ show.url }}" class="archive-card" data-year="{{ show.data.year }}">
         <div class="archive-card-poster">
           {% if show.data.poster %}
-            <img src="{{ show.data.poster }}" alt="{{ show.data.title }} poster">
+            <img src="{{ show.data.poster }}" alt="{{ show.data.title }} poster" loading="lazy">
           {% else %}
             {% set colorIndex = (loop.index % 6) + 1 %}
             <div class="archive-poster-placeholder ap-color-{{ colorIndex }}">

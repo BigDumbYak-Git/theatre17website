@@ -59,8 +59,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     bioFilterBtns.forEach(btn => {
       btn.addEventListener('click', () => {
-        bioFilterBtns.forEach(b => b.classList.remove('active'));
+        bioFilterBtns.forEach(b => { b.classList.remove('active'); b.setAttribute('aria-pressed', 'false'); });
         btn.classList.add('active');
+        btn.setAttribute('aria-pressed', 'true');
         activeType = btn.dataset.filter;
         applyBioFilters();
       });
@@ -68,8 +69,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     alphaFilterBtns.forEach(btn => {
       btn.addEventListener('click', () => {
-        alphaFilterBtns.forEach(b => b.classList.remove('active'));
+        alphaFilterBtns.forEach(b => { b.classList.remove('active'); b.setAttribute('aria-pressed', 'false'); });
         btn.classList.add('active');
+        btn.setAttribute('aria-pressed', 'true');
         activeAlpha = btn.dataset.alpha;
         applyBioFilters();
       });

@@ -20,7 +20,7 @@ navActive: archive
       <div class="show-poster">
         <div class="show-poster-img">
           {% if poster %}
-            <img src="{{ poster }}" alt="{{ title }} poster">
+            <img src="{{ poster }}" alt="{{ title }} poster" loading="lazy">
           {% else %}
             <div class="poster-placeholder">
               <div class="poster-title">{{ title }}</div>
@@ -30,7 +30,7 @@ navActive: archive
         </div>
         <div style="margin-top:1rem;display:flex;flex-direction:column;gap:0.75rem;">
           {% if ticket_url %}
-            <a href="{{ ticket_url }}" class="btn btn-primary" style="justify-content:center;" target="_blank" rel="noopener">Get Tickets</a>
+            <a href="{{ ticket_url }}" class="btn btn-primary" style="justify-content:center;" target="_blank" rel="noopener noreferrer">Get Tickets</a>
           {% endif %}
           <a href="/archive.html" class="btn btn-ghost" style="justify-content:center;">← Back to Archive</a>
         </div>
@@ -151,7 +151,7 @@ navActive: archive
           <div class="gallery-grid">
             {% for item in gallery %}
             <button class="gallery-item" data-lightbox-src="{{ item.image }}" data-lightbox-caption="{{ item.caption or (title + ' production photo') }}" aria-label="View larger: {{ item.caption or (title + ' production photo') }}">
-              <img src="{{ item.image }}" alt="{{ item.caption or (title + ' production photo') }}">
+              <img src="{{ item.image }}" alt="{{ item.caption or (title + ' production photo') }}" loading="lazy">
             </button>
             {% endfor %}
           </div>
