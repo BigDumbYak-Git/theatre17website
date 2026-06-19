@@ -1,5 +1,6 @@
 ---
 name: Jason Roussin
+photo: /assets/uploads/headshot_jasonroussin.jpg
 primary_role: Actor
 member_type: current
 performer_or_crew: both
