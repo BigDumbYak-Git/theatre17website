@@ -109,7 +109,7 @@ module.exports = function(eleventyConfig) {
 
   // Alpha group for alphabetical filter buttons (keyed on first letter of name)
   eleventyConfig.addFilter("alphaGroup", function(name) {
-    const first = (name || "").trim().charAt(0).toUpperCase();
+    const first = (name || "").trim().normalize("NFD").replace(/[̀-ͯ]/g, "").charAt(0).toUpperCase();
     if (first <= "E") return "a-e";
     if (first <= "J") return "f-j";
     if (first <= "O") return "k-o";
