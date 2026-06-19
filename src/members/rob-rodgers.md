@@ -1,5 +1,6 @@
 ---
 name: Rob Rodgers
+photo: /assets/uploads/headshot_robrodgers.jpg
 primary_role: Actor
 member_type: current
 performer_or_crew: both
