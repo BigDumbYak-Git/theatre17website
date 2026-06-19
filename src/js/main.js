@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const bioCards = document.querySelectorAll('.bio-card');
 
   if (bioCards.length) {
-    let activeType = 'all';
+    let activeType = 'current';
     let activeAlpha = 'all';
 
     function applyBioFilters() {
@@ -76,6 +76,8 @@ document.addEventListener('DOMContentLoaded', () => {
         applyBioFilters();
       });
     });
+
+    applyBioFilters();
   }
 
   // ---- Mark active nav link ----
