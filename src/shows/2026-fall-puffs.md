@@ -32,19 +32,19 @@ crew:
     role: Choreography
   - name: Erik Maua
     role: Sound
-  - name: Open Position, contact if interested
+  - name: Catherine Kiewning
     role: Stage Manager
-  - name: Open Position, contact if interested
+  - name: Micaela Bange
     role: Property Master
   - name: Open Position, contact if interested
     role: Set Design / Build
-  - name: Open Position, contact if interested
+  - name: Derek Schroeder
     role: Technical Direction
   - name: Open Position, contact if interested
     role: Hair & Makeup
   - name: Open Position, contact if interested
     role: Backstage
-  - name: Open Position, contact if interested
+  - name: Mike Patey
     role: Prompter
 gallery: []
 ---
