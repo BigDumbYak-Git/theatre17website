@@ -20,7 +20,31 @@ description: >-
 
 
   A tale for anyone who has never been destined to save the world.
-cast: []
+cast:
+  - name: Damon Armstrong
+    role: Wayne Hopkins
+  - name: Kris Barton
+    role: Oliver Rivers
+  - name: Amy Maua
+    role: Megan Jones
+  - name: Renée Fediuk
+    role: Narrator
+  - name: Emma-Leigh Fex
+    role: Ernie Mac
+  - name: Micheal Van Patter
+    role: Cedric / Mr. Voldy
+  - name: Jason Roussin
+    role: J. Finch Fletchley
+  - name: Abbie Barker
+    role: Leanne
+  - name: Ashlea Barker
+    role: Sally Perks
+  - name: Natalie Callewaert
+    role: Susie Bones
+  - name: Cecily Wilson
+    role: Hannah
+  - name: Pricilla Wall
+    role: Helga
 crew:
   - name: Angie Barton
     role: Director
