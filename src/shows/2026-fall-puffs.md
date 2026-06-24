@@ -66,9 +66,9 @@ crew:
     role: Technical Directior
   - name: Janelle Tickner
     role: Hair & Makeup
-  - name: Open Position, contact if interested
-    role: Backstage
   - name: Mike Patey
     role: Prompter
+  - name: Open Position, contact if interested
+    role: Backstage
 gallery: []
 ---
