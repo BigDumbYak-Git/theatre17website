@@ -48,22 +48,22 @@ cast:
 crew:
   - name: Angie Barton
     role: Director
-  - name: Kris Barton
-    role: "Technical Support "
+  - name: Catherine Kiewning
+    role: Stage Manager
   - name: Audrey Nosworthy
     role: Costume Designer/Maker
   - role: Costume Designer/Maker
     name: Bella Polischuk
   - name: Natalie Callewaert
     role: Choreography
-  - name: Erik Maua
-    role: Sound
-  - name: Catherine Kiewning
-    role: Stage Manager
   - name: Micaela Bange
     role: Property Master
   - name: Derek Schroeder
     role: Technical Directior
+  - name: Erik Maua
+    role: Sound
+  - name: Kris Barton
+    role: "Technical Support "
   - name: Janelle Tickner
     role: Hair & Makeup
   - name: Mike Patey
