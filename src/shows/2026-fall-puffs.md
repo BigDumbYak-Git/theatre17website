@@ -60,11 +60,9 @@ crew:
     role: Stage Manager
   - name: Micaela Bange
     role: Property Master
-  - name: Open Position, contact if interested
-    role: Set Design / Build
   - name: Derek Schroeder
-    role: Technical Direction
-  - name: Open Position, contact if interested
+    role: Technical Directior
+  - name: Janelle Tickner
     role: Hair & Makeup
   - name: Open Position, contact if interested
     role: Backstage
