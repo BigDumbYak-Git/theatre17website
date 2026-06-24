@@ -37,7 +37,7 @@ directors_note: >-
   *Love, Loss and What I Wore*: an ensemble of monlogues. 
 
 
-  But what we had never done was a play with a 100 year pedigree. I have always loved Oscar Wilde's The *Importance of Being Earnest*, and suggested this as our first. This play, with its witty language, its formal sets and its hilarious characters who display a wide range of human frailties, is our offering in the field of Classic Theatre. We hav been rehearsing only since the end of January, and my cast has been amazing and dedicated as they conquered Wilde's complex, witty language, unfamiliar time setting and gorgeous (and uncomfortable) costumes like professionals.We know that you will enjoy the results! Our thanks, as always, for your support.
+  But what we had never done was a play with a 100 year pedigree. I have always loved Oscar Wilde's The *Importance of Being Earnest*, and suggested this as our first. This play, with its witty language, its formal sets and its hilarious characters who display a wide range of human frailties, is our offering in the field of Classic Theatre. We have been rehearsing only since the end of January, and my cast has been amazing and dedicated as they conquered Wilde's complex, witty language, unfamiliar time setting and gorgeous (and uncomfortable) costumes like professionals.We know that you will enjoy the results! Our thanks, as always, for your support.
 ticket_url: ""
 cast:
   - name: Tyler Johnson
