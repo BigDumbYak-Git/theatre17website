@@ -52,6 +52,8 @@ crew:
     role: "Technical Support "
   - name: Audrey Nosworthy
     role: Costume Designer/Maker
+  - role: Costume Designer/Maker
+    name: Bella Polischuk
   - name: Natalie Callewaert
     role: Choreography
   - name: Erik Maua
