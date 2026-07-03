@@ -17,6 +17,33 @@ description: "An announcement in the local paper states the time and place of an
   motives, concealed identities, a second death, a determined Inspector, and
   Miss Marple providing the final solution in a dramatic final-act
   confrontation."
+cast:
+  - name: Kelsey Fuerst
+    role: Julia Simmons
+  - name: Darlene Fuerst
+    role: Letitia Blacklock
+  - name: Dayna DeBenedet
+    role: Dora Brunner
+  - name: Stephen Pritchard
+    role: Patrick Simmons
+  - name: Rachele Dupuis
+    role: Mitzi
+  - name: Karen McDonald
+    role: Miss Jane Marple
+  - name: Patti Galloway
+    role: Phillipa Haymes
+  - name: Theresa Lambert
+    role: Mrs. Swettenham
+  - name: Jay Roussin
+    role: Edmund Swettenham
+  - name: Rob Rodgers
+    role: Rudi Scherz
+  - name: Murray Cook
+    role: Inspector Craddock
+  - name: Austin Robinson
+    role: Sergeant Mellors
+  - name: Yvette Burns
+    role: Understudy
 crew:
   - name: Judith Hamilton
     role: Director
