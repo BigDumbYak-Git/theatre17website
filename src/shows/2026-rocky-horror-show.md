@@ -211,4 +211,9 @@ gallery:
     caption: Laura-Lee Pernsky as Riff Raff.
   - image: /assets/uploads/show_rockyhorror8.jpg
     caption: Catherine Kiewning and Sheila Wilson opened and closed the show.
+  - image: /assets/uploads/media_rocky.jpg
+  - image: /assets/uploads/article_rocky1.jpg
+  - image: /assets/uploads/article_rocky2.jpg
+  - image: /assets/uploads/article_rocky3.jpg
+  - image: /assets/uploads/article_rocky4.jpg
 ---
