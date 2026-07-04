@@ -1,4 +1,4 @@
----
+﻿---
 title: Blithe Spirit
 playwright: Noël Coward
 year: 2024
@@ -31,7 +31,7 @@ cast:
     role: Violet Bradman
   - name: Emma-Leigh Fex
     role: Edith
-  - name: Renee Fediuk
+  - name: Renée Fediuk
     role: Ruth Condomine
   - name: Natalie Callewaert
     role: Elvira Condomine

@@ -95,7 +95,7 @@ crew:
     role: Hair & Makeup
   - name: Kathy Boone
     role: Additional Seamstress
-  - name: Renee Fediuk
+  - name: Renée Fediuk
     role: Additional Seamstress
   - name: Johanna Minder
     role: Additional Seamstress

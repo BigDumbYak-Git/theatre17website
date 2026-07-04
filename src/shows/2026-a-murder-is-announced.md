@@ -1,4 +1,4 @@
----
+﻿---
 title: A Murder is Announced
 playwright: "Agatha Christie / Leslie Darbon "
 year: 2018
@@ -34,7 +34,7 @@ cast:
     role: Phillipa Haymes
   - name: Theresa Lambert
     role: Mrs. Swettenham
-  - name: Jay Roussin
+  - name: Jason Roussin
     role: Edmund Swettenham
   - name: Rob Rodgers
     role: Rudi Scherz

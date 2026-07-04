@@ -49,7 +49,7 @@ crew:
     role: Audio Technician
   - name: Sheila Wilson
     role: Stagehand
-  - name: Jay Roussin
+  - name: Jason Roussin
     role: Stagehand
   - name: Theresa Lambert
     role: Programs
