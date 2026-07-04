@@ -46,5 +46,45 @@ cast:
     role: Understudy
 crew:
   - name: Judith Hamilton
-    role: Director
+    role: Director, Makeup
+  - name: Shayna Kirwan
+    role: Stage Manager
+  - name: Dominique Savage
+    role: Stagehand
+  - name: Kari Morris
+    role: Stagehand
+  - name: Audrey Nosworthy
+    role: Set Design & Construction
+  - name: Rick Smith
+    role: Lighting Manager
+  - name: Everett Rourke
+    role: Sound Editing & Mixing
+  - name: Yvette Burns
+    role: Sound Assistant, Photographer
+  - name: Michelle Price
+    role: Prompter
+  - name: Laura Lee Pernsky
+    role: Costume Quick Change Assistant
+  - name: Liz Storrey
+    role: Music Tape
+  - name: Julija Graham
+    role: Music Tape, Makeup
+  - name: Bruce Walchuk
+    role: Sound Effects
+  - name: Courtney McArthur
+    role: Hair Stylist
+  - name: Melany Groves
+    role: Poster and Program Cover Design
+  - name: Renée Fediuk
+    role: Cast and Crew Bios
+  - name: Terry McDonald
+    role: Set Moving and Set Up
+  - name: Jason Lambert
+    role: Set Moving and Set Up
+  - name: Jeff Cook
+    role: Set Moving and Set Up
+  - name: David Hamilton
+    role: Set Moving and Set Up
+  - name: Kate Cook
+    role: Set Moving and Set Up
 ---
