@@ -1,4 +1,4 @@
----
+﻿---
 title: The Importance of Being Earnest
 playwright: Oscar Wilde
 year: 2016
@@ -74,11 +74,11 @@ crew:
   - name: Jeff Cook
     role: Set Design & Construction
   - name: Sean Turpin
-    role: "Stage Hand, Set Design & Construction, "
+    role: "Stagehand, Set Design & Construction, "
   - name: Kirk Gauthier
-    role: Stage Hand
+    role: Stagehand
   - name: Andrew Misner
-    role: Stage Hand
+    role: Stagehand
   - name: Sam Johnson
     role: Set Design & Construction
   - name: Darlene Fuerst
@@ -90,9 +90,9 @@ crew:
   - name: Kathy Braun
     role: Prompter
   - name: Courtney McArthur
-    role: Hair & Make Up
+    role: Hair & Makeup
   - name: Brittany Derosiers Reid
-    role: Hair & Make Up
+    role: Hair & Makeup
   - name: Kathy Boone
     role: Additional Seamstress
   - name: Renee Fediuk

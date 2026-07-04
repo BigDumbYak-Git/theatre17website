@@ -1,4 +1,4 @@
----
+﻿---
 title: Office Hours
 playwright: "Norm Foster "
 year: 2015
@@ -70,9 +70,9 @@ crew:
   - name: Patti Gallaway
     role: Props
   - name: Meilssa Wilson
-    role: Hair & Make-Up
+    role: Hair & Makeup
   - name: Courtney McArthur
-    role: Hair & Make-Up
+    role: Hair & Makeup
   - name: Dave Darling
     role: Poster Design & Production
   - name: Marjorie Salavich

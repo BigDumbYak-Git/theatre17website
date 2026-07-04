@@ -1,4 +1,4 @@
----
+﻿---
 title: Quilters
 playwright: Molly Newman and Barbara Damashek
 year: 2006
@@ -51,7 +51,7 @@ crew:
   - name: Bev Whittaker
     role: Costumes
   - name: Amy Baudry
-    role: Hair and Make-up
+    role: Hair and Makeup
   - name: Laurence Russel
     role: Musician - Mandolin
   - name: Debbie Justice

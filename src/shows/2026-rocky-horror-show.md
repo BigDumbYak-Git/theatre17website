@@ -1,4 +1,4 @@
----
+﻿---
 title: Rocky Horror Show
 playwright: Richard O'Brien
 year: 2017
@@ -99,12 +99,12 @@ crew:
     role: Front of House Manager
   - name: Courtney McArthur
     role: Hair
-  - role: Make-Up
+  - role: Makeup
     name: Cheryl Nielson
-  - role: Make-Up
+  - role: Makeup
     name: Julija Graham
   - name: Brooke Ewald
-    role: Make-Up
+    role: Makeup
   - name: Arianne Hansson
     role: Prompter / Construction Crew / Art/Painting
   - role: Costumes

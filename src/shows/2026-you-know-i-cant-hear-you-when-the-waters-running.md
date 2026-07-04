@@ -1,4 +1,4 @@
----
+﻿---
 title: You Know I Can't Hear You When The Water's Running
 playwright: Robert Anderson
 year: 2012
@@ -56,7 +56,7 @@ cast:
     role: "I'm Herbert: Muriel"
 crew:
   - name: Judith Hamilton
-    role: Director, Make-Up Artist
+    role: Director, Makeup Artist
   - name: Linda Cunningham
     role: Stage Manager, Set Construction / Set Up
   - name: Ray Cook
@@ -76,9 +76,9 @@ crew:
   - name: Sandi Duncan
     role: Hair Stylist
   - name: Sydney Dupuis
-    role: Make-up Artist
+    role: Makeup Artist
   - name: Aimée Bédard
-    role: Make-up Artist
+    role: Makeup Artist
 gallery:
   - image: /assets/uploads/article_youknowicanthearyouwhenthewatersrunning1.jpeg
   - image: /assets/uploads/article_youknowicanthearyouwhenthewatersrunning2.jpeg

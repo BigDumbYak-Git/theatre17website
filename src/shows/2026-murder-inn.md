@@ -1,4 +1,4 @@
----
+﻿---
 title: Murder Inn
 playwright: Howard Voland and Kieth McGregor
 year: 2013
@@ -46,13 +46,13 @@ cast:
     role: Marco
 crew:
   - name: Judith Hamilton
-    role: Director, Make-Up
+    role: Director, Makeup
   - name: Riley Hill
-    role: Understudy, Stage Hand, Volunteer
+    role: Understudy, Stagehand, Volunteer
   - name: Sabrina Desaulniers
-    role: Understudy, Stage Hand, Volunteer
+    role: Understudy, Stagehand, Volunteer
   - name: Derek Schroeder
-    role: Understudy, Stage Hand, Volunteer, Sound Effects, Set Design & Construction
+    role: Understudy, Stagehand, Volunteer, Sound Effects, Set Design & Construction
   - name: Chris Turpin
     role: Sound Editing & Mixing
   - name: Mike Marion
@@ -80,7 +80,7 @@ crew:
   - name: Sandy Duncan
     role: Hairstylist
   - name: Cast
-    role: Costumes, Make-Up
+    role: Costumes, Makeup
 gallery:
   - image: /assets/uploads/handout_murderinn.jpeg
     caption: Ballot for audience participation

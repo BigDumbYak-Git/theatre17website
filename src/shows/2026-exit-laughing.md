@@ -1,4 +1,4 @@
----
+﻿---
 title: Exit Laughing
 playwright: Paul Elliot
 year: 2016
@@ -54,7 +54,7 @@ crew:
   - name: Theresa Lambert
     role: Programs
   - name: Cast & Crew
-    role: Set Decor & Props, Hair & Make-Up
+    role: Set Decor & Props, Hair & Makeup
 gallery:
   - image: /assets/uploads/media_exitlaughing1.jpg
   - image: /assets/uploads/media_exitlaughing2.jpg
