@@ -64,13 +64,13 @@ crew:
     role: Sound
   - name: Kris Barton
     role: Technical Support, Set Design
+  - name: Benjamin Gardiner
+    role: Set Manager
   - name: Janelle Tickner
     role: Hair & Makeup
   - name: Mike Patey
     role: Prompter
   - name: Melany Priebe
     role: Promotional Media
-  - name: Benjamin Gardiner
-    role: Set Manager
 gallery: []
 ---
