@@ -68,9 +68,9 @@ crew:
     role: Hair & Makeup
   - name: Mike Patey
     role: Prompter
-  - name: Open Position, contact if interested
-    role: Backstage
   - name: Melany Priebe
     role: Promotional Media
+  - name: Open Position, contact if interested
+    role: Backstage
 gallery: []
 ---
