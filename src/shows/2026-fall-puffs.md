@@ -70,7 +70,5 @@ crew:
     role: Prompter
   - name: Melany Priebe
     role: Promotional Media
-  - name: Open Position, contact if interested
-    role: Backstage
 gallery: []
 ---
