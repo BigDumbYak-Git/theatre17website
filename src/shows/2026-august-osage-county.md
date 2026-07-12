@@ -126,4 +126,7 @@ crew:
     role: Sound Effects and Music
   - name: Melany Groves
     role: Program and Poster Cover Design
+gallery:
+  - image: /assets/uploads/article_augustosagecounty1.jpg
+  - image: /assets/uploads/article_augustosagecounty2.jpg
 ---
