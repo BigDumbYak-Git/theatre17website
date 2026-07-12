@@ -1,4 +1,4 @@
-﻿---
+---
 title: A Murder is Announced
 playwright: "Agatha Christie / Leslie Darbon "
 year: 2018
@@ -87,4 +87,7 @@ crew:
     role: Set Moving and Set Up
   - name: Kate Cook
     role: Set Moving and Set Up
+gallery:
+  - image: /assets/uploads/article_amurderisannounced1.jpg
+  - image: /assets/uploads/article_amurderisannounced2.jpg
 ---

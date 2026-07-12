@@ -63,12 +63,14 @@ crew:
   - name: Erik Maua
     role: Sound
   - name: Kris Barton
-    role: "Technical Support "
+    role: Technical Support, Set Design
+  - name: Benjamin Gardiner
+    role: Set Manager
   - name: Janelle Tickner
     role: Hair & Makeup
   - name: Mike Patey
     role: Prompter
-  - name: Open Position, contact if interested
-    role: Backstage
+  - name: Melany Priebe
+    role: Promotional Media
 gallery: []
 ---
