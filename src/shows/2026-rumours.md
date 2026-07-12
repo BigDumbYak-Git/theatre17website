@@ -7,16 +7,16 @@ status: closed
 current_show: false
 dates: May 4, 5, 6
 opening_date: 2017-05-04
-closing_date: 2017-05-04
+closing_date: 2017-05-06
 show_times: 7:30 PM
 venue: The Centre
 poster: /assets/uploads/poster_rumors.webp
-description: The place is Sneden's Landing New York. A group of friendsare
-  gathering at the home of Myra and Charley Brock to celebrate their
-  tenthwedding anniversary. Upon arrival of the first guests Charley is found
-  shot andMyra is nowhere in sight. In order to protect the reputation of their
-  friend,the guests must get their stories straight. Thus ensues mayhem,
-  confusion, andmiscommunication in this hilarious Neil Simon farce.
+description: The place is Sneden's Landing New York. A group of friends are
+  gathering at the home of Myra and Charley Brock to celebrate their tenth
+  wedding anniversary. Upon arrival of the first guests Charley is found
+  shot and Myra is nowhere in sight. In order to protect the reputation of their
+  friend, the guests must get their stories straight. Thus ensues mayhem,
+  confusion, and miscommunication in this hilarious Neil Simon farce.
 cast:
   - name: Julija Graham
     role: Chris Gorman
@@ -34,7 +34,7 @@ cast:
     role: Glenn Cooper
   - name: Theresa Lambert
     role: Cassie Cooper
-  - name: Brittany Cook
+  - name: Brittany Cooke
     role: Officer Welch
   - name: Patrick Keewatin
     role: Officer Pudney

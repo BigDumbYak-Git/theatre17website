@@ -63,9 +63,9 @@ cast:
     role: Mattie Fay Aitken
   - name: Mike Van Patter
     role: Charlie Aitken
-  - name: Damon Armstron
+  - name: Damon Armstrong
     role: Little Charles
-  - name: Brittany Cook
+  - name: Brittany Cooke
     role: Johana Monevata
   - name: Erik Maua
     role: Steve Heidenbrecht
@@ -79,7 +79,7 @@ crew:
   - name: Sabrina Desaulniers
     role: Stage Manager, Set Design, Set Crew, Stage Setup, Props, Set Decoration
       and Properties
-  - name: Jasmin Collin
+  - name: Jasmine Collin
     role: Assitant Stage Manager, Set Design, Set Crew, Stage Setup, Set Decoration
       and Properties
   - name: Wally Ostman
@@ -90,7 +90,7 @@ crew:
     role: Set Construction, Stage Setup
   - name: Egon Fuerst
     role: Set Construction, Stage Setup
-  - name: Ray Cook
+  - name: Raymond Cook
     role: Set Crew
   - name: Derick Henderson
     role: Set Crew, Stage Setup
@@ -98,7 +98,7 @@ crew:
     role: Stage Setup
   - name: Jason Lambert
     role: Stage Setup
-  - name: Ray Cook
+  - name: Raymond Cook
     role: Stage Setup
   - name: Bailey Laverdure
     role: Stage Setup

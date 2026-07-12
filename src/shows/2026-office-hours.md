@@ -1,6 +1,6 @@
 ﻿---
 title: Office Hours
-playwright: "Norm Foster "
+playwright: Norm Foster
 year: 2015
 season: Spring
 status: closed
@@ -34,7 +34,7 @@ cast:
     role: Ellie Young
   - name: Audrey Nosworthy
     role: Rhonda Penny
-  - name: " Bruce Walchuk"
+  - name: Bruce Walchuk
     role: Artie Barnes
   - name: Theresa Lambert
     role: Sharon Freeman
@@ -42,12 +42,12 @@ cast:
     role: Man (Henry Hatcher)
   - name: Jason Roussin
     role: Neil Penny
-  - name: Jasimine Collin
+  - name: Jasmine Collin
     role: Understudy
   - name: Shirley McLean
     role: Understudy
 crew:
-  - name: "Judith Hamilton "
+  - name: Judith Hamilton
     role: Director
   - name: Derek Schroeder
     role: Production Manager
@@ -69,7 +69,7 @@ crew:
     name: Sabrina Desaulniers
   - name: Patti Gallaway
     role: Props
-  - name: Meilssa Wilson
+  - name: Melissa Wilson
     role: Hair & Makeup
   - name: Courtney McArthur
     role: Hair & Makeup

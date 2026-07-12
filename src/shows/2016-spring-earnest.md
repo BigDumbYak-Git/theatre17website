@@ -113,7 +113,7 @@ gallery:
   - image: /assets/uploads/program_theimportanceofbeingearnest.jpg
     caption: Program cover
   - image: /assets/uploads/article_theimportanceofbeingearnest3.jpg
-    caption: Britanny Cook (Cecily) and Steven Pritchard (Algernon) as an infatuated
+    caption: Brittany Cooke (Cecily) and Steven Pritchard (Algernon) as an infatuated
       young couple
   - image: /assets/uploads/article_theimportanceofbeingearnest.jpg
   - image: /assets/uploads/article_theimportanceofbeingearnest2.jpg

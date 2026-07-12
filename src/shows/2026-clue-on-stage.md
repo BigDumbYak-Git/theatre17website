@@ -22,11 +22,11 @@ description: >-
 
   Join the mysterious inhabitants and the colourful guests known as Scarlet, Plum, White, Green, Peacock, and Mustard as they race to find the murderer in Boddy Manor before the body count stacks up. Based on the cult classic film and the popular board game, *Clue* is a madcap comedy that will keep you guessing until the final twist.
 directors_note: >-
-  Unlike most of our previous plays, this has been an enormous challenege and an
+  Unlike most of our previous plays, this has been an enormous challenge and an
   unexpected gift.
 
 
-  When th e'lights went out all over the world', we reluctantly shut down, expecting a short delay and then a speedy resumption of what we love to do. You all know what happened!
+  When the 'lights went out all over the world', we reluctantly shut down, expecting a short delay and then a speedy resumption of what we love to do. You all know what happened!
 
 
   Now, three years later, we are resurrecting our cast, renewing our enthusiasm, and looking forward to seeing our loyal audiences again.
@@ -55,7 +55,7 @@ cast:
     role: Miss Scarlet
   - name: Mike Van Patter
     role: Professor Plum
-  - name: Brittany Cook
+  - name: Brittany Cooke
     role: Mr. Boddy, Singing Telegram Girl, Police Squad
   - name: Emma-Leigh Fex
     role: The Motorist, Chief of Police
@@ -70,7 +70,7 @@ crew:
     role: Set Building and Design, Props, Costumes
   - name: Calista Livingston
     role: Set Design and Construction, Props, Costumes
-  - name: Derek Schroder
+  - name: Derek Schroeder
     role: Set Design and Construction, Props, Costumes, Lighting Assistant
   - name: Melany Priebe
     role: Set Design and Construction, Props, Costumes, Posters, Programs, Bios
@@ -80,7 +80,7 @@ crew:
     role: Stagehand
   - name: Rick Smith
     role: Lighting Manager
-  - name: Everet Rourke
+  - name: Everett Rourke
     role: Sound Editor and Mixing
   - name: Ethan Curtis
     role: Prompter
@@ -100,6 +100,6 @@ crew:
     role: Door and Programme Volunteer
   - name: DHS Arts Council
     role: Coat Check
-  - name: Audrey nosworthy
+  - name: Audrey Nosworthy
     role: Treasurer
 ---

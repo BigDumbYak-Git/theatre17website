@@ -16,7 +16,7 @@ description: Three southern ladies from Birmingham — Connie, Leona, and Millie
   one last card game. The wildest night of their lives involves a police raid, a
   stripper, and a whole new outlook on living. Winner of the AACTNewPlayFest
 cast:
-  - name: Jasimine Collin
+  - name: Jasmine Collin
     role: Rachel
   - name: Darlene Fuerst
     role: Connie
@@ -45,7 +45,7 @@ crew:
     role: Script Prompter
   - name: Rick Smith
     role: Audio Director
-  - name: Krik Gauthier
+  - name: Kirk Gauthier
     role: Audio Technician
   - name: Sheila Wilson
     role: Stagehand

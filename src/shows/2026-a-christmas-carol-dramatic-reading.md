@@ -1,6 +1,6 @@
 ---
 title: A Christmas Carol (Dramatic Reading)
-playwright: Chrles Dickens
+playwright: Charles Dickens
 year: 2016
 season: Winter
 status: closed

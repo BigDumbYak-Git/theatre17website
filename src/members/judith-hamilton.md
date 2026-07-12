@@ -13,6 +13,8 @@ bio: >-
 
   Judith will be missed by all who knew her especially the arts community.
 shows_display: "Director: Quilters, A Murder is Announced, Rumours, A Christmas
-  Carol, The Importance of Being Earnest, Office Hours, Clue, Steel Magnolias,
-  Calendar Girls"
+  Carol (Dramatic Reading), The Importance of Being Earnest, Office Hours,
+  Clue: On Stage, Steel Magnolias, Calendar Girls, A Teatime Travesty,
+  Tony N' Tina's Wedding, You Know I Can't Hear You, Murder Inn ·
+  Co-Director: August: Osage County"
 ---

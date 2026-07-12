@@ -22,7 +22,7 @@ cast:
     role: Jake Talbot
   - name: Audrey Nosworthy
     role: Martha Talbot
-  - name: Rachele Dupui Morris
+  - name: Rachele Dupuis Morris
     role: Agnes Tate
   - name: Tiffany Goulet
     role: Carolyn Pickett

@@ -9,5 +9,10 @@ bio: |-
 
 
   Co-directed Exit Laughing with Marj Salavich
-shows_display: "Director: Exit Laughing"
+shows_display: "Co-Director: Exit Laughing, Love Loss and What I Wore · Actor: A
+  Teatime Travesty (Lucretia Ray), Tony N' Tina's Wedding (Josephine Vitale),
+  Steel Magnolias (Clairee Belcher), Calendar Girls (Lady C.), You Know I Can't
+  Hear You (Muriel) · Crew: A Teatime Travesty (Set Decoration, Poster Design),
+  Tony N' Tina's Wedding (Wedding Decorations), Steel Magnolias (Poster Design &
+  Set Decoration), Calendar Girls"
 ---

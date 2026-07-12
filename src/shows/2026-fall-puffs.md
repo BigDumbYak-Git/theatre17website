@@ -31,7 +31,7 @@ cast:
     role: Narrator
   - name: Emma-Leigh Fex
     role: Ernie Mac
-  - name: Micheal Van Patter
+  - name: Michael Van Patter
     role: Cedric / Mr. Voldy
   - name: Jason Roussin
     role: J. Finch Fletchley
@@ -43,7 +43,7 @@ cast:
     role: Susie Bones
   - name: Cecily Wilson
     role: Hannah
-  - name: Pricilla Wall
+  - name: Priscilla Wall
     role: Helga
 crew:
   - name: Angie Barton
@@ -59,7 +59,7 @@ crew:
   - name: Micaela Bange
     role: Property Master
   - name: Derek Schroeder
-    role: Technical Directior
+    role: Technical Director
   - name: Erik Maua
     role: Sound
   - name: Kris Barton

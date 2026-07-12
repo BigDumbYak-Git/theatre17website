@@ -4,5 +4,7 @@ primary_role: Actor
 member_type: alumni
 performer_or_crew: performer
 bio: Bio for Yvette
-shows_display: "Actor: Steel Magnolias (Understudy), Calendar Girls (Marie)"
+shows_display: "Actor: Steel Magnolias (Understudy), Calendar Girls (Marie), A Murder
+  is Announced (Understudy) / Crew: A Murder is Announced (Sound Assistant,
+  Photographer)"
 ---

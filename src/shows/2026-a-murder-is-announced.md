@@ -1,6 +1,6 @@
 ---
 title: A Murder is Announced
-playwright: "Agatha Christie / Leslie Darbon "
+playwright: Agatha Christie / Leslie Darbon
 year: 2018
 season: Spring
 status: closed
@@ -24,13 +24,13 @@ cast:
     role: Letitia Blacklock
   - name: Dayna DeBenedet
     role: Dora Brunner
-  - name: Stephen Pritchard
+  - name: Steven Pritchard
     role: Patrick Simmons
-  - name: Rachele Dupuis
+  - name: Rachele Dupuis Morris
     role: Mitzi
   - name: Karen McDonald
     role: Miss Jane Marple
-  - name: Patti Galloway
+  - name: Patti Gallaway
     role: Phillipa Haymes
   - name: Theresa Lambert
     role: Mrs. Swettenham

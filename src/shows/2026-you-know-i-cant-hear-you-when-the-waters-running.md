@@ -46,7 +46,7 @@ cast:
       Berringer"
   - name: Theresa Lambert
     role: "The Footsteps of Doves: Jill Hammond"
-  - name: Audreay Nosworthy
+  - name: Audrey Nosworthy
     role: "I'll Be Home For Christmas: Edith Berringer"
   - name: Cayla Congdon
     role: "I'll Be Home For Christmas: Clarice Berringer (Friday and Saturday)"
@@ -59,7 +59,7 @@ crew:
     role: Director, Makeup Artist
   - name: Linda Cunningham
     role: Stage Manager, Set Construction / Set Up
-  - name: Ray Cook
+  - name: Raymond Cook
     role: Stage Crew
   - name: Megan Gadd
     role: Understudy
@@ -73,7 +73,7 @@ crew:
     role: Set Construction / Set Up
   - name: David Hamilton
     role: Set Construction / Set Up
-  - name: Sandi Duncan
+  - name: Sandy Duncan
     role: Hair Stylist
   - name: Sydney Dupuis
     role: Makeup Artist

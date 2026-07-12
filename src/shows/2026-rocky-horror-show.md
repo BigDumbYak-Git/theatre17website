@@ -28,7 +28,7 @@ description: >-
   *"One of the '10 most influential postwar British plays.'"* - Guardian UK
 
 
-  The Rocky Horrow Show was first presented on Broadway by Lou Adler at the Belasco Theatre in New York City in March 1975. It was directed by Jim Sharman.
+  The Rocky Horror Show was first presented on Broadway by Lou Adler at the Belasco Theatre in New York City in March 1975. It was directed by Jim Sharman.
 cast:
   - name: Catherine Kiewning
     role: Usherette
@@ -42,7 +42,7 @@ cast:
     role: Narrator
   - name: Laura-Lee Pernsky
     role: Riff Raff
-  - name: Brittany Cook
+  - name: Brittany Cooke
     role: Columbia
   - name: Amy Maua
     role: Magenta
@@ -69,11 +69,11 @@ crew:
     role: Director / Construction Crew
   - name: Gail Arnold
     role: Assistant Director / Construction Crew
-  - name: Derek Schroder
+  - name: Derek Schroeder
     role: Technical Director / Construction Crew / Art/Painting
   - name: Sabrina Desaulniers
     role: Contracts / Wardrobe Manager / Costume Designer
-  - name: Katie Venne
+  - name: Kate Venne
     role: Stage Manager / Construction Crew
   - name: Shayna Kirwan
     role: Assistant Stage Manager
@@ -92,7 +92,7 @@ crew:
   - role: Sound Designer / Technician
     name: Everett Rourke
   - name: Rick Smith
-    role: "Light Designer / Technician:"
+    role: Light Designer / Technician
   - name: Renée Fediuk
     role: Front of House Manager
   - name: Karen Kirkpatrick
@@ -158,9 +158,9 @@ crew:
   - role: Front of House
     name: Kate Kroeker
   - role: Front of House
-    name: Leslie-Ann Norman
+    name: Lesley-Ann Norman
   - role: Front of House
-    name: Rachele Dupuis
+    name: Rachele Dupuis Morris
   - role: Front of House
     name: Rob Rodgers
   - role: Front of House

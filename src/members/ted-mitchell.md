@@ -13,6 +13,6 @@ bio: "**Ted** has been inspiring young performers as a Theatre teacher at
   variety of other Theatre 17 productions. Ted's dedication to theatre, both in
   the classroom and on the community stage, makes him an invaluable part of what
   makes Theatre 17 such a special group."
-shows_display: "DIrector: Rocky Horror Show / Actor: The Wedding Story (Groom).
+shows_display: "Director: Rocky Horror Show / Actor: The Wedding Story (Groom),
   AWOL (Trevor, Volunteer)"
 ---

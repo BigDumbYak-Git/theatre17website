@@ -5,7 +5,7 @@ year: 2006
 season: Winter
 status: closed
 current_show: false
-dates: February 16 & 17. 2006
+dates: February 16 & 17, 2006
 opening_date: 2006-02-16
 closing_date: 2006-02-17
 show_times: 7:30 PM
@@ -18,7 +18,7 @@ cast:
   - name: Gracie Baron
     role: Pioneer
   - name: Warner Bloomfield
-    role: Pinoeer
+    role: Pioneer
   - name: Shannon Elliott
     role: Pioneer
   - name: Christie Jaggi

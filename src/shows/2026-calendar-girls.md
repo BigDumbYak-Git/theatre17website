@@ -54,9 +54,9 @@ cast:
     role: Celia
   - name: Melissa Ewanchuk
     role: Marie
-  - name: Pattie Gallaway
+  - name: Patti Gallaway
     role: Brenda
-  - name: Rachele Dupuis
+  - name: Rachele Dupuis Morris
     role: Ruth
   - name: Irene Skene
     role: Lady C.
@@ -67,13 +67,13 @@ cast:
   - name: Peter Marshall
     role: John
 crew:
-  - name: Derek Schroder
+  - name: Derek Schroeder
     role: "*pending info*"
   - name: Irene Skene
     role: "*pending info*"
   - name: Judith Hamilton
     role: Director
-  - name: Katie Venne
+  - name: Kate Venne
     role: "*pending info*"
   - name: Linda Cunningham
     role: "*pending info*"

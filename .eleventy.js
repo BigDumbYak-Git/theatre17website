@@ -64,10 +64,13 @@ module.exports = function(eleventyConfig) {
     return map[status] || "status-closed";
   });
 
-  // True only if one of the " / "-separated role parts is exactly "Director"
+  // True only if the first role segment (before " / " or ",") is exactly "Director"
   eleventyConfig.addFilter("isDirector", function(role) {
     if (!role) return false;
-    return role.split(" / ").some(part => part.trim().toLowerCase() === "director");
+    const trimmed = role.trim().toLowerCase();
+    return trimmed === "director" ||
+           trimmed.startsWith("director,") ||
+           trimmed.startsWith("director /");
   });
 
   // Extract unique years from shows array, newest first

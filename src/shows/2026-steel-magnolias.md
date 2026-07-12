@@ -25,7 +25,7 @@ description: >-
 cast:
   - name: Theresa Lambert
     role: Truvy Jones
-  - name: Rachel Dupuis Morris
+  - name: Rachele Dupuis Morris
     role: Annette Dupuy-Desoto
   - name: Irene Skene
     role: Clairee Belcher
