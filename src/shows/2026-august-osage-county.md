@@ -44,5 +44,86 @@ directors_note: >-
   Judith Hamilton \
 
   Rob Rodgers
-cast: []
+cast:
+  - name: Rob Rodgers
+    role: Beverly Weston
+  - name: Darlene Fuerst
+    role: Violet Weston
+  - name: Amy Maua
+    role: Barbara Fordham
+  - name: Murray Cook
+    role: Bill Fordham
+  - name: Sheila Wilson
+    role: Jean Fordham
+  - name: Kelsey Fuerst
+    role: Ivy Weston
+  - name: Theresa Lambert
+    role: Karen Weston
+  - name: Audrey Nosworthy
+    role: Mattie Fay Aitken
+  - name: Mike Van Patter
+    role: Charlie Aitken
+  - name: Damon Armstron
+    role: Little Charles
+  - name: Brittany Cook
+    role: Johana Monevata
+  - name: Erik Maua
+    role: Steve Heidenbrecht
+  - name: Jason Roussin
+    role: Sherrif Dean Guilbeau
+crew:
+  - name: Judith Hamilton
+    role: Director, Set Design, Hair and Makeup
+  - name: Rob Rodgers
+    role: Director, Sound Assistant, Calling the Show
+  - name: Sabrina Desaulniers
+    role: Stage Manager, Set Design, Set Crew, Stage Setup, Props, Set Decoration
+      and Properties
+  - name: Jasmin Collin
+    role: Assitant Stage Manager, Set Design, Set Crew, Stage Setup, Set Decoration
+      and Properties
+  - name: Wally Ostman
+    role: Set Construction, Stage Setup
+  - name: Sandy Ostman
+    role: Set Construction, Stage Setup
+  - name: Richard Tuckey
+    role: Set Construction, Stage Setup
+  - name: Egon Fuerst
+    role: Set Construction, Stage Setup
+  - name: Ray Cook
+    role: Set Crew
+  - name: Derick Henderson
+    role: Set Crew, Stage Setup
+  - name: Chris Maua
+    role: Stage Setup
+  - name: Jason Lambert
+    role: Stage Setup
+  - name: Ray Cook
+    role: Stage Setup
+  - name: Bailey Laverdure
+    role: Stage Setup
+  - name: Colin Barton
+    role: Stage Setup
+  - name: Garth Wintle
+    role: Stage Setup
+  - name: Dennis Desaulniers
+    role: Stage Setup
+  - name: Alexxys Miller
+    role: Costume Mistress
+  - name: Courtney McArthur
+    role: Hair and Makeup
+  - name: Amy Maua
+    role: Hair and Makeup
+  - name: Shayna Kirwan
+    role: Hair and Makeup
+  - name: Ted Mitchell
+    role: Prompter
+  - name: Rick Smith
+    role: Lighting Manager
+  - name: Everett Rourke
+    role: Sound Editor and Mixing
+  - name: Bruce Walchuk
+    role: Sound Effects and Music
+  - name: Melany Groves
+    role: Program and Poster Cover Design
 ---
