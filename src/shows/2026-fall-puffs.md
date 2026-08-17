@@ -60,12 +60,12 @@ crew:
     role: Property Master
   - name: Derek Schroeder
     role: Technical Director, Set Build
-  - name: Erik Maua
-    role: Sound. Acting Coach
   - name: Rob Rodgers
     role: Set Build
   - name: Emma-Leigh Fex
     role: Set Build
+  - name: Erik Maua
+    role: Sound. Acting Coach
   - name: Kris Barton
     role: Technical Support, Set Design
   - name: Benjamin Gardiner
