@@ -18,6 +18,13 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // ---- Ticket expiry: hide Buy Tickets button after closing day ----
+  document.querySelectorAll('.ticket-expiry-btn[data-closes]').forEach(btn => {
+    const closes = new Date(btn.dataset.closes);
+    closes.setDate(closes.getDate() + 1); // visible through end of closing day
+    if (new Date() > closes) btn.remove();
+  });
+
   // ---- Archive year filter ----
   const filterBtns = document.querySelectorAll('.filter-btn');
   const archiveCards = document.querySelectorAll('.archive-card');
