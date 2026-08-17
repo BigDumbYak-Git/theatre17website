@@ -20,7 +20,7 @@ description: >-
 
 
   A tale for anyone who has never been destined to save the world.
-ticket_url: Http://TEST.com
+ticket_url: ""
 cast:
   - name: Damon Armstrong
     role: Wayne Hopkins
