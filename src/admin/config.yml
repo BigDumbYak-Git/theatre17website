@@ -7,7 +7,7 @@ backend:
 media_folder: "src/assets/uploads"
 public_folder: "/assets/uploads"
 
-site_url: https://theatre17website.bigdumbyak.workers.dev
+site_url: https://theatre17.ca
 
 # =============================================
 # COLLECTIONS
