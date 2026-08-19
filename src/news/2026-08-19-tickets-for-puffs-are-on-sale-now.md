@@ -12,6 +12,9 @@ summary: Great news! Tickets for Puffs are officially on sale!
 - Friday, October 23 — 7:00 pm
 - Saturday, October 24 — 7:00 pm
 
+<br>
+<br>
+
 All three performances take place at **The Centre**, 100 Casimir Avenue, Dryden. Seating is assigned, tickets are $25 per person (plus applicable service fees).
  
 *Please note: This production contains strong language and some sexual references and may not be suitable for younger audiences.*
