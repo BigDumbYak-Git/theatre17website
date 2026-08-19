@@ -4,7 +4,6 @@ date: 2026-08-19
 category: news
 summary: Great news! Tickets for Puffs are officially on sale!
 ---
-# Tickets for Puffs Are On Sale Now!
 
 *Puffs, or Seven Increasingly Eventful Years at a Certain School of Magic and Magic* by Matt Cox hits the stage for three nights only this October. For seven years a certain boy wizard went to a certain Wizard School and conquered evil... but this isn't his story. This is the story of the Puffs, a group of loyal, badger-loving outsiders who just happened to be there too. If you've ever wondered what school was like for the kids who weren't destined to save the world, this one's for you.
 
