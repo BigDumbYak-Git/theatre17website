@@ -2,7 +2,7 @@
 title: Tickets for Puffs Are On Sale Now!
 date: 2026-08-19
 category: news
-image: /assets/uploads/cover_puffstransparent.png
+image: ""
 summary: Great news! Tickets for Puffs are officially on sale!
 ---
 
