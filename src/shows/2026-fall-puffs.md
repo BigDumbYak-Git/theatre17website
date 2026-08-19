@@ -20,7 +20,7 @@ description: >-
 
 
   A tale for anyone who has never been destined to save the world.
-ticket_url: ""
+ticket_url: https://www.thecentreonline.ca/calendar/action~month/exact_date~1790830800/request_format~html/
 cast:
   - name: Damon Armstrong
     role: Wayne Hopkins
