@@ -14,12 +14,13 @@ summary: Great news! Tickets for Puffs are officially on sale!
 
 All three performances take place at **The Centre**, 100 Casimir Avenue, Dryden. Seating is assigned, tickets are $25 per person (plus applicable service fees).
  
-*Please note: This production contains frequent strong language and some sexual references and may not be suitable for younger audiences.*
+*Please note: This production contains strong language and some sexual references and may not be suitable for younger audiences.*
 
 **Grab your seats:**
 - [Thursday, October 22 Tickets](https://events.leapevents.com/event/theatre-17-presents-puffs-)
 - [Friday, October 23 Tickets](https://events.leapevents.com/event/theatre-17-presents-puffs-vkkppx4)
 - [Saturday, October 24 Tickets](https://events.leapevents.com/event/theatre-17-presents-puffs-vkkppx4xopvknf)
+
 
 Tickets are handled through [thecentreonline.ca](https://thecentreonline.ca). With only three shows and assigned seating, we'd grab yours sooner rather than later. We can't wait to share this one with you! 
 See you at the theatre!
