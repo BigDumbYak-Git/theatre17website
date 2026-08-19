@@ -9,8 +9,9 @@ audition_link: https://forms.gle/C4oKDKffiJVs4zAPA
 dates: October 22 – 24, 2026
 opening_date: 2026-10-22
 closing_date: 2026-10-24
+show_times: 7:00PM
 venue: The Centre
-poster: /assets/uploads/poster_puffs.webp
+poster: /assets/uploads/poster_puffsmp.jpg
 description: >-
   For seven years a certain boy wizard went to a certain Wizard School and
   conquered evil. 
