@@ -20,7 +20,8 @@ All three performances take place at **The Centre**, 100 Casimir Avenue, Dryden.
 - [Thursday, October 22 Tickets](https://events.leapevents.com/event/theatre-17-presents-puffs-)
 - [Friday, October 23 Tickets](https://events.leapevents.com/event/theatre-17-presents-puffs-vkkppx4)
 - [Saturday, October 24 Tickets](https://events.leapevents.com/event/theatre-17-presents-puffs-vkkppx4xopvknf)
-
+<br>
+<br>
 
 Tickets are handled through [thecentreonline.ca](https://thecentreonline.ca). With only three shows and assigned seating, we'd grab yours sooner rather than later. We can't wait to share this one with you! 
 See you at the theatre!
