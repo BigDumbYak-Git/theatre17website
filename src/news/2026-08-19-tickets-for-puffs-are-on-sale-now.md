@@ -11,7 +11,6 @@ summary: Great news! Tickets for Puffs are officially on sale!
 - Thursday, October 22 — 7:00 pm
 - Friday, October 23 — 7:00 pm
 - Saturday, October 24 — 7:00 pm
-
 <br>
 <br>
 
