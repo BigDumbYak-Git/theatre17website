@@ -2,10 +2,11 @@
 title: Tickets for Puffs Are On Sale Now!
 date: 2026-08-19
 category: news
+image: /assets/uploads/cover_puffstransparent.png
 summary: Great news! Tickets for Puffs are officially on sale!
 ---
 
-*Puffs, or Seven Increasingly Eventful Years at a Certain School of Magic and Magic* by Matt Cox hits the stage for three nights only this October. For seven years a certain boy wizard went to a certain Wizard School and conquered evil... but this isn't his story. This is the story of the Puffs, a group of loyal, badger-loving outsiders who just happened to be there too. If you've ever wondered what school was like for the kids who weren't destined to save the world, this one's for you.
+*Puffs, or Seven Increasingly Eventful Years at a Certain School of Magic and Magic* by Matt Cox* hits the stage for three nights only this October. For seven years a certain boy wizard went to a certain Wizard School and conquered evil... but this isn't his story. This is the story of the Puffs, a group of loyal, badger-loving outsiders who just happened to be there too. If you've ever wondered what school was like for the kids who weren't destined to save the world, this one's for you.
 
 **Show Dates**
 - Thursday, October 22 — 7:00 pm
@@ -27,3 +28,7 @@ All three performances take place at **The Centre**, 100 Casimir Avenue, Dryden.
 
 Tickets are handled through [thecentreonline.ca](https://thecentreonline.ca). With only three shows and assigned seating, we'd grab yours sooner rather than later. We can't wait to share this one with you! 
 See you at the theatre!
+
+<hr>
+
+**Puffs is not authorized, sanctioned, licensed, or endorsed by J.K. Rowling, Warner Bors, or any person or company associated with the Harry Potter books, films, or play.*
