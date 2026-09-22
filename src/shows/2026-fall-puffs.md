@@ -76,9 +76,9 @@ crew:
     role: Hair & Makeup
   - name: Mike Patey
     role: Prompter
-  - name: Melany Priebe
-    role: Promotional Media
   - name: Ted Mitchell
     role: Acting Coach, Prompter
+  - name: Melany Priebe
+    role: Promotional Media
 gallery: []
 ---
