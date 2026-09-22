@@ -49,9 +49,9 @@ cast:
     role: Helga
 crew:
   - name: Angie Barton
-    role: Director
+    role: Director, Props Build
   - name: Catherine Kiewning
-    role: Stage Manager
+    role: Stage Manager, Props Build
   - name: Audrey Nosworthy
     role: Costume Designer/Maker
   - role: Costume Designer/Maker
@@ -67,9 +67,9 @@ crew:
   - name: Emma-Leigh Fex
     role: Set Build
   - name: Erik Maua
-    role: Sound. Acting Coach
+    role: Sound, Acting Coach
   - name: Kris Barton
-    role: Technical Support, Set Design
+    role: Technical Support, Set Design, Props Build
   - name: Benjamin Gardiner
     role: Set Manager
   - name: Janelle Tickner
@@ -78,5 +78,7 @@ crew:
     role: Prompter
   - name: Melany Priebe
     role: Promotional Media
+  - name: Ted Mitchell
+    role: Acting Coach, Prompter
 gallery: []
 ---
