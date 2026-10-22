@@ -92,23 +92,29 @@ crew:
   - name: Micaela Bange
     role: Property Master
   - name: Derek Schroeder
-    role: Technical Director, Set Build
+    role: Technical Director, Set Build, Stagehand, Tech Support
   - name: Rob Rodgers
-    role: Set Build
+    role: Set Build, Stagehand, Door Master
+  - name: Benjamin Gardiner
+    role: Stagehand, Door Master
+  - name: Danny Arnold
+    role: Stagehand, Bird Launcher
+  - name: Eric Winters
+    role: Stagehand, Spider Wrangler
+  - name: Bethany Sinninghe
+    role: Stagehand, Costume Surgeon
   - name: Emma-Leigh Fex
-    role: Set Build
+    role: Set Build, Set Design
   - name: Erik Maua
-    role: Sound, Acting Coach
+    role: Sound, Acting Coach, Audio Recording
   - name: Kris Barton
     role: Technical Support, Set Design, Props Build
-  - name: Benjamin Gardiner
-    role: Set Manager
   - name: Janelle Tickner
-    role: Hair & Makeup
+    role: Hair & Makeup, Costume Handler
   - name: Mike Patey
     role: Prompter
   - name: Ted Mitchell
-    role: Acting Coach, Prompter
+    role: Acting Coach, Prompter, Front of House Manager
   - name: Melany Priebe
     role: Promotional Media
 gallery: []
