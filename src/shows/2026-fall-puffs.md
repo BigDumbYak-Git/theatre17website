@@ -80,7 +80,7 @@ cast:
     role: Helga
 crew:
   - name: Angie Barton
-    role: Director, Props Build
+    role: Director
   - name: Catherine Kiewning
     role: Stage Manager, Props Build
   - name: Audrey Nosworthy
