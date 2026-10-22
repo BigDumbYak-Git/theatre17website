@@ -3,7 +3,7 @@ title: Puffs
 playwright: Matt Cox
 year: 2026
 season: Fall
-status: rehearsal
+status: performances
 current_show: true
 audition_link: https://forms.gle/C4oKDKffiJVs4zAPA
 dates: October 22 – 24, 2026
@@ -11,7 +11,7 @@ opening_date: 2026-10-22
 closing_date: 2026-10-24
 show_times: 7:00PM
 venue: The Centre
-poster: /assets/uploads/poster_puffsmp.jpg
+poster: /assets/uploads/poster_puffs_final.jpg
 description: >-
   For seven years a certain boy wizard went to a certain Wizard School and
   conquered evil. 
@@ -21,6 +21,37 @@ description: >-
 
 
   A tale for anyone who has never been destined to save the world.
+directors_note: >-
+  A Message from the Director
+
+
+  Welcome to Puffs!
+
+
+  When I first took on the challenge of directing this production, I knew it was going to be an adventure. What I didn’t fully appreciate was just how much creativity, dedication, laughter, and hard work it would take to bring this wonderfully ridiculous story to the stage.
+
+
+  At its heart, Puffs is a story about the people who aren’t necessarily the heroes of the story, but who show up, stand by their friends, and discover that being ordinary doesn’t mean you can’t be extraordinary.
+
+
+  And in many ways, that’s what community theatre is all about.
+
+
+  This production has been brought to life by an incredible group of volunteers who have given their evenings, weekends, talents, and probably a little bit of their sanity to make it happen. From the cast on stage to the many hands working behind the scenes, I couldn’t be more grateful.
+
+
+  To our audience, thank you for supporting live theatre in our community. Your presence makes all of this worthwhile.
+
+
+  So sit back, enjoy the magic, embrace the ridiculousness, and remember: sometimes the most important stories belong to the people standing just outside the spotlight.
+
+
+  With gratitude,
+
+
+  Angie Barton
+
+  Director, Puffs
 ticket_url: https://www.thecentreonline.ca/calendar/action~month/exact_date~1790830800/request_format~html/
 cast:
   - name: Damon Armstrong
