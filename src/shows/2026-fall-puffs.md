@@ -114,7 +114,7 @@ crew:
   - name: Mike Patey
     role: Prompter
   - name: Ted Mitchell
-    role: Acting Coach, Prompter, Front of House Manager
+    role: Acting Coach, Prompter, Front of House Manager, Emergency Understudy
   - name: Melany Priebe
     role: Promotional Media
 gallery: []
