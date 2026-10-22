@@ -102,7 +102,7 @@ crew:
   - name: Eric Winters
     role: Stagehand, Spider Wrangler
   - name: Bethany Sinninghe
-    role: Stagehand, Costume Surgeon
+    role: Stagehand, Costume Surgeon, Orca Tamer
   - name: Emma-Leigh Fex
     role: Set Build, Set Design
   - name: Erik Maua
