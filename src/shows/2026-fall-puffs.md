@@ -117,5 +117,8 @@ crew:
     role: Acting Coach, Prompter, Front of House Manager, Emergency Understudy
   - name: Melany Priebe
     role: Promotional Media
-gallery: []
+gallery:
+  - image: /assets/uploads/media_puffs_cast-creative.jpg
+    caption: The Cast and Crew of Puffs before our Closing Night show, October 24th,
+      2026
 ---
