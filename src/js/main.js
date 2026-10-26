@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.body.style.overflow = '';
     };
 
-    document.querySelectorAll('.gallery-item[data-lightbox-src]').forEach(btn => {
+    document.querySelectorAll('[data-lightbox-src]').forEach(btn => {
       btn.addEventListener('click', () => {
         openLightbox(btn.dataset.lightboxSrc, btn.dataset.lightboxCaption);
       });

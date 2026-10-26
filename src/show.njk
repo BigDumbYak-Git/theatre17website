@@ -37,7 +37,7 @@ pageDescription: "Theatre 17 current production in Dryden, Ontario."
           {% endif %}
         </div>
         <div style="margin-top:1rem;display:flex;flex-direction:column;gap:0.75rem;">
-          {% if show.data.ticket_url %}
+          {% if show.data.ticket_url and show.data.status != "closed" %}
             <a href="{{ show.data.ticket_url }}" class="btn btn-primary" style="justify-content:center;" target="_blank" rel="noopener noreferrer">Get Tickets</a>
           {% endif %}
           {% if show.data.status in ["planning", "auditions"] %}

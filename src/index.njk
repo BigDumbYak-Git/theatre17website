@@ -70,7 +70,7 @@ pageDescription: "Theatre 17 is Dryden's community theatre group, bringing live 
             {% endif %}
           </div>
           <div class="hero-actions">
-            {% if currentShow.data.ticket_url %}
+            {% if currentShow.data.ticket_url and currentShow.data.status != "closed" %}
               <a href="{{ currentShow.data.ticket_url }}"
                  class="btn btn-primary ticket-expiry-btn"
                  {% if currentShow.data.closing_date %}data-closes="{{ currentShow.data.closing_date }}"{% endif %}
@@ -111,6 +111,11 @@ pageDescription: "Theatre 17 is Dryden's community theatre group, bringing live 
     <div class="news-grid">
       {% for post in latestNews %}
       <div class="news-card">
+        {% if post.data.image %}
+          <button class="news-thumb news-card-thumb" data-lightbox-src="{{ post.data.image }}" data-lightbox-caption="{{ post.data.title }}" aria-label="View larger: {{ post.data.title }}">
+            <img src="{{ post.data.image }}" alt="{{ post.data.title }}" loading="lazy">
+          </button>
+        {% endif %}
         <span class="news-card-tag">{{ post.data.category | capitalize }}</span>
         <h3><a href="/news.html">{{ post.data.title }}</a></h3>
         {% if post.data.summary %}
@@ -122,6 +127,7 @@ pageDescription: "Theatre 17 is Dryden's community theatre group, bringing live 
       </div>
       {% endfor %}
     </div>
+    {% include "lightbox.njk" %}
     <div style="text-align:center;margin-top:2.5rem;">
       <a href="/news.html" class="btn btn-ghost">All News &amp; Announcements</a>
     </div>

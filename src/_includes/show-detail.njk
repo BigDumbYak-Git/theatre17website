@@ -29,7 +29,7 @@ navActive: archive
           {% endif %}
         </div>
         <div style="margin-top:1rem;display:flex;flex-direction:column;gap:0.75rem;">
-          {% if ticket_url %}
+          {% if ticket_url and status != "closed" %}
             <a href="{{ ticket_url }}" class="btn btn-primary" style="justify-content:center;" target="_blank" rel="noopener noreferrer">Get Tickets</a>
           {% endif %}
           <a href="/archive.html" class="btn btn-ghost" style="justify-content:center;">← Back to Archive</a>
@@ -157,15 +157,7 @@ navActive: archive
           </div>
         </div>
 
-        <!-- Lightbox -->
-        <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer" hidden>
-          <button class="lightbox-close" id="lightbox-close" aria-label="Close photo viewer">&times;</button>
-          <div class="lightbox-backdrop" id="lightbox-backdrop"></div>
-          <div class="lightbox-content">
-            <img class="lightbox-img" id="lightbox-img" src="" alt="">
-            <p class="lightbox-caption" id="lightbox-caption"></p>
-          </div>
-        </div>
+        {% include "lightbox.njk" %}
         {% endif %}
 
       </div>

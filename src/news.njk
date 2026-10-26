@@ -25,9 +25,15 @@ pageDescription: "The latest news, announcements, and updates from Theatre 17 in
     <div class="news-list">
       {% for post in allNews %}
       <div class="news-item">
-        <div>
+        <div class="news-item-body">
           <span class="news-item-tag">{{ post.data.category | capitalize }}</span>
           <h2><a href="#">{{ post.data.title }}</a></h2>
+
+          {% if post.data.image %}
+            <button class="news-thumb news-item-thumb" data-lightbox-src="{{ post.data.image }}" data-lightbox-caption="{{ post.data.title }}" aria-label="View larger: {{ post.data.title }}">
+              <img src="{{ post.data.image }}" alt="{{ post.data.title }}" loading="lazy">
+            </button>
+          {% endif %}
 
           {% if post.data.summary %}
             <p>{{ post.data.summary }}</p>
@@ -49,6 +55,7 @@ pageDescription: "The latest news, announcements, and updates from Theatre 17 in
       </div>
       {% endfor %}
     </div>
+    {% include "lightbox.njk" %}
 
     {% else %}
     <div style="text-align:center;padding:4rem 0;">
