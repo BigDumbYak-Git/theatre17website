@@ -164,12 +164,15 @@ pageDescription: "Theatre 17 current production in Dryden, Ontario."
           <div class="cast-section-title">Production Photos</div>
           <div class="gallery-grid">
             {% for item in show.data.gallery %}
-            <div class="gallery-item">
-              <img src="{{ item.image }}" alt="{{ item.caption or (show.data.title + ' production photo') }}">
-            </div>
+            {% set photoCaption = item.caption or (show.data.title + ' production photo') %}
+            <button class="gallery-item" data-lightbox-src="{{ item.image }}" data-lightbox-caption="{{ photoCaption }}" aria-label="View larger: {{ photoCaption }}">
+              <img src="{{ item.image }}" alt="{{ photoCaption }}" loading="lazy">
+            </button>
             {% endfor %}
           </div>
         </div>
+
+        {% include "lightbox.njk" %}
         {% endif %}
 
       </div>
